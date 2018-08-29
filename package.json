@@ -1,0 +1,35 @@
+{
+  "name": "quardx",
+  "version": "0.1.0",
+  "author": {
+    "name": "egg",
+    "email": "i@egg.pe.kr"
+  },
+  "description": "quardx api wrapper",
+  "main": "index.js",
+  "script": {
+    "test": "standard && grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/egg-/quardx.git"
+  },
+  "keywords": [
+    "quardx"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/egg-/quardx/issues"
+  },
+  "homepage": "https://github.com/egg-/quardx#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-mocha-test": "^0.13.3",
+    "matchdep": "^2.0.0",
+    "mocha": "^5.2.0"
+  }
+}
