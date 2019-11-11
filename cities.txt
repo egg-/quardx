@@ -1,0 +1,1113 @@
+{"id":18130,"code":null,"name":"Bangued","type":"city","parent_id":18129,"postal_code":null}
+{"id":18145,"code":null,"name":"Pidigan","type":"city","parent_id":18129,"postal_code":null}
+{"id":18155,"code":null,"name":"San Quintin","type":"city","parent_id":18129,"postal_code":null}
+{"id":18159,"code":null,"name":"Tayum","type":"city","parent_id":18129,"postal_code":null}
+{"id":18164,"code":null,"name":"Buenavista","type":"city","parent_id":18163,"postal_code":null}
+{"id":18182,"code":null,"name":"Butuan","type":"city","parent_id":18163,"postal_code":null}
+{"id":18223,"code":null,"name":"Cabadbaran","type":"city","parent_id":18163,"postal_code":null}
+{"id":18247,"code":null,"name":"Carmen","type":"city","parent_id":18163,"postal_code":null}
+{"id":18252,"code":null,"name":"Jabonga","type":"city","parent_id":18163,"postal_code":null}
+{"id":18258,"code":null,"name":"Kitcharao","type":"city","parent_id":18163,"postal_code":null}
+{"id":18262,"code":null,"name":"Magallanes","type":"city","parent_id":18163,"postal_code":null}
+{"id":18266,"code":null,"name":"Nasipit","type":"city","parent_id":18163,"postal_code":null}
+{"id":18283,"code":null,"name":"Rumualdez","type":"city","parent_id":18163,"postal_code":null}
+{"id":18286,"code":null,"name":"Santiago","type":"city","parent_id":18163,"postal_code":null}
+{"id":18293,"code":null,"name":"Tubay","type":"city","parent_id":18163,"postal_code":null}
+{"id":18301,"code":null,"name":"Bayugan","type":"city","parent_id":18300,"postal_code":null}
+{"id":18322,"code":null,"name":"Bunawan","type":"city","parent_id":18300,"postal_code":null}
+{"id":18329,"code":null,"name":"Esperanza","type":"city","parent_id":18300,"postal_code":null}
+{"id":18334,"code":null,"name":"Prosperidad","type":"city","parent_id":18300,"postal_code":null}
+{"id":18348,"code":null,"name":"Rosario","type":"city","parent_id":18300,"postal_code":null}
+{"id":18354,"code":null,"name":"San Francisco","type":"city","parent_id":18300,"postal_code":null}
+{"id":18368,"code":null,"name":"Santa Josefa","type":"city","parent_id":18300,"postal_code":null}
+{"id":18373,"code":null,"name":"Sibagat","type":"city","parent_id":18300,"postal_code":null}
+{"id":18376,"code":null,"name":"Talacogon","type":"city","parent_id":18300,"postal_code":null}
+{"id":18385,"code":null,"name":"Trento","type":"city","parent_id":18300,"postal_code":null}
+{"id":18393,"code":null,"name":"Veruela","type":"city","parent_id":18300,"postal_code":null}
+{"id":18399,"code":null,"name":"Banga","type":"city","parent_id":18398,"postal_code":null}
+{"id":18424,"code":null,"name":"Ibajay","type":"city","parent_id":18398,"postal_code":null}
+{"id":18432,"code":null,"name":"Kalibo","type":"city","parent_id":18398,"postal_code":null}
+{"id":18448,"code":null,"name":"Lezo","type":"city","parent_id":18398,"postal_code":null}
+{"id":18461,"code":null,"name":"Makato","type":"city","parent_id":18398,"postal_code":null}
+{"id":18476,"code":null,"name":"Malay (Boracay)","type":"city","parent_id":18398,"postal_code":null}
+{"id":18492,"code":null,"name":"Malinao","type":"city","parent_id":18398,"postal_code":null}
+{"id":18510,"code":null,"name":"Nabas","type":"city","parent_id":18398,"postal_code":null}
+{"id":18525,"code":null,"name":"New Washington","type":"city","parent_id":18398,"postal_code":null}
+{"id":18541,"code":null,"name":"Numancia","type":"city","parent_id":18398,"postal_code":null}
+{"id":18559,"code":null,"name":"Tangalan","type":"city","parent_id":18398,"postal_code":null}
+{"id":18573,"code":null,"name":"Bacacay","type":"city","parent_id":18572,"postal_code":null}
+{"id":18595,"code":null,"name":"Camalig","type":"city","parent_id":18572,"postal_code":null}
+{"id":18617,"code":null,"name":"Daraga","type":"city","parent_id":18572,"postal_code":null}
+{"id":18643,"code":null,"name":"Guinobatan","type":"city","parent_id":18572,"postal_code":null}
+{"id":18658,"code":null,"name":"Legaspi City","type":"city","parent_id":18572,"postal_code":null}
+{"id":18728,"code":null,"name":"Libon","type":"city","parent_id":18572,"postal_code":null}
+{"id":18739,"code":null,"name":"Ligao","type":"city","parent_id":18572,"postal_code":null}
+{"id":18754,"code":null,"name":"Malilipot","type":"city","parent_id":18572,"postal_code":null}
+{"id":18763,"code":null,"name":"Malinao","type":"city","parent_id":18572,"postal_code":null}
+{"id":18773,"code":null,"name":"Oas","type":"city","parent_id":18572,"postal_code":null}
+{"id":18788,"code":null,"name":"Polangui","type":"city","parent_id":18572,"postal_code":null}
+{"id":18802,"code":null,"name":"Santo Domingo","type":"city","parent_id":18572,"postal_code":null}
+{"id":18821,"code":null,"name":"Tabaco","type":"city","parent_id":18572,"postal_code":null}
+{"id":18844,"code":null,"name":"Tiwi","type":"city","parent_id":18572,"postal_code":null}
+{"id":18848,"code":null,"name":"Belison","type":"city","parent_id":18847,"postal_code":null}
+{"id":18855,"code":null,"name":"Culasi","type":"city","parent_id":18847,"postal_code":null}
+{"id":18866,"code":null,"name":"Hamtic","type":"city","parent_id":18847,"postal_code":null}
+{"id":18895,"code":null,"name":"Libertad","type":"city","parent_id":18847,"postal_code":null}
+{"id":18905,"code":null,"name":"Pandan","type":"city","parent_id":18847,"postal_code":null}
+{"id":18932,"code":null,"name":"Patnongon","type":"city","parent_id":18847,"postal_code":null}
+{"id":18938,"code":null,"name":"San Jose","type":"city","parent_id":18847,"postal_code":null}
+{"id":18966,"code":null,"name":"Sebaste","type":"city","parent_id":18847,"postal_code":null}
+{"id":18975,"code":null,"name":"Sibalom","type":"city","parent_id":18847,"postal_code":null}
+{"id":19001,"code":null,"name":"Tobias Fornier Dao","type":"city","parent_id":18847,"postal_code":null}
+{"id":19014,"code":null,"name":"Luna","type":"city","parent_id":19013,"postal_code":null}
+{"id":19022,"code":null,"name":"Baler","type":"city","parent_id":19021,"postal_code":null}
+{"id":19036,"code":null,"name":"Dipaculao","type":"city","parent_id":19021,"postal_code":null}
+{"id":19046,"code":null,"name":"Maria Aurora","type":"city","parent_id":19021,"postal_code":null}
+{"id":19067,"code":null,"name":"San Luis","type":"city","parent_id":19021,"postal_code":null}
+{"id":19080,"code":null,"name":"Isabela","type":"city","parent_id":19079,"postal_code":null}
+{"id":19104,"code":null,"name":"Lamitan","type":"city","parent_id":19079,"postal_code":null}
+{"id":19118,"code":null,"name":"Maluso","type":"city","parent_id":19079,"postal_code":null}
+{"id":19124,"code":null,"name":"Abucay","type":"city","parent_id":19123,"postal_code":null}
+{"id":19133,"code":null,"name":"Balanga","type":"city","parent_id":19123,"postal_code":null}
+{"id":19156,"code":null,"name":"Dinalupihan","type":"city","parent_id":19123,"postal_code":null}
+{"id":19196,"code":null,"name":"Hermosa","type":"city","parent_id":19123,"postal_code":null}
+{"id":19210,"code":null,"name":"Limay","type":"city","parent_id":19123,"postal_code":null}
+{"id":19223,"code":null,"name":"Mariveles","type":"city","parent_id":19123,"postal_code":null}
+{"id":19238,"code":null,"name":"Orani","type":"city","parent_id":19123,"postal_code":null}
+{"id":19263,"code":null,"name":"Orion","type":"city","parent_id":19123,"postal_code":null}
+{"id":19286,"code":null,"name":"Pilar","type":"city","parent_id":19123,"postal_code":null}
+{"id":19303,"code":null,"name":"Samal","type":"city","parent_id":19123,"postal_code":null}
+{"id":19316,"code":null,"name":"Basco","type":"city","parent_id":19315,"postal_code":null}
+{"id":19323,"code":null,"name":"Ivana","type":"city","parent_id":19315,"postal_code":null}
+{"id":19328,"code":null,"name":"Maitatao","type":"city","parent_id":19315,"postal_code":null}
+{"id":19333,"code":null,"name":"Uyugan","type":"city","parent_id":19315,"postal_code":null}
+{"id":19339,"code":null,"name":"Agoncillo","type":"city","parent_id":19338,"postal_code":null}
+{"id":19356,"code":null,"name":"Alitagtag","type":"city","parent_id":19338,"postal_code":null}
+{"id":19373,"code":null,"name":"Balayan","type":"city","parent_id":19338,"postal_code":null}
+{"id":19412,"code":null,"name":"Balete","type":"city","parent_id":19338,"postal_code":null}
+{"id":19420,"code":null,"name":"Batangas City","type":"city","parent_id":19338,"postal_code":null}
+{"id":19488,"code":null,"name":"Bauan","type":"city","parent_id":19338,"postal_code":null}
+{"id":19518,"code":null,"name":"Calaca","type":"city","parent_id":19338,"postal_code":null}
+{"id":19535,"code":null,"name":"Calatagan","type":"city","parent_id":19338,"postal_code":null}
+{"id":19550,"code":null,"name":"Cuenca","type":"city","parent_id":19338,"postal_code":null}
+{"id":19567,"code":null,"name":"Ibaan","type":"city","parent_id":19338,"postal_code":null}
+{"id":19593,"code":null,"name":"Laurel","type":"city","parent_id":19338,"postal_code":null}
+{"id":19610,"code":null,"name":"Lemery","type":"city","parent_id":19338,"postal_code":null}
+{"id":19637,"code":null,"name":"Lian","type":"city","parent_id":19338,"postal_code":null}
+{"id":19652,"code":null,"name":"Lipa City","type":"city","parent_id":19338,"postal_code":null}
+{"id":19720,"code":null,"name":"Lobo","type":"city","parent_id":19338,"postal_code":null}
+{"id":19727,"code":null,"name":"Mabini","type":"city","parent_id":19338,"postal_code":null}
+{"id":19748,"code":null,"name":"Malvar","type":"city","parent_id":19338,"postal_code":null}
+{"id":19763,"code":null,"name":"Mataas Na Kahoy","type":"city","parent_id":19338,"postal_code":null}
+{"id":19778,"code":null,"name":"Nasugbu","type":"city","parent_id":19338,"postal_code":null}
+{"id":19800,"code":null,"name":"Padre Garcia","type":"city","parent_id":19338,"postal_code":null}
+{"id":19815,"code":null,"name":"Rosario","type":"city","parent_id":19338,"postal_code":null}
+{"id":19855,"code":null,"name":"San Jose","type":"city","parent_id":19338,"postal_code":null}
+{"id":19869,"code":null,"name":"San Juan","type":"city","parent_id":19338,"postal_code":null}
+{"id":19896,"code":null,"name":"San Luis","type":"city","parent_id":19338,"postal_code":null}
+{"id":19907,"code":null,"name":"San Nicolas","type":"city","parent_id":19338,"postal_code":null}
+{"id":19919,"code":null,"name":"San Pascual","type":"city","parent_id":19338,"postal_code":null}
+{"id":19931,"code":null,"name":"Santa Teresita","type":"city","parent_id":19338,"postal_code":null}
+{"id":19942,"code":null,"name":"Santo Tomas","type":"city","parent_id":19338,"postal_code":null}
+{"id":19973,"code":null,"name":"Taal","type":"city","parent_id":19338,"postal_code":null}
+{"id":20004,"code":null,"name":"Talisay","type":"city","parent_id":19338,"postal_code":null}
+{"id":20024,"code":null,"name":"Tanauan","type":"city","parent_id":19338,"postal_code":null}
+{"id":20056,"code":null,"name":"Taysan","type":"city","parent_id":19338,"postal_code":null}
+{"id":20066,"code":null,"name":"Tuy","type":"city","parent_id":19338,"postal_code":null}
+{"id":20078,"code":null,"name":"Baguio","type":"city","parent_id":20077,"postal_code":null}
+{"id":20207,"code":null,"name":"La Trinidad","type":"city","parent_id":20077,"postal_code":null}
+{"id":20220,"code":null,"name":"Tuba","type":"city","parent_id":20077,"postal_code":null}
+{"id":20223,"code":null,"name":"Almeria","type":"city","parent_id":20222,"postal_code":null}
+{"id":20234,"code":null,"name":"Biliran","type":"city","parent_id":20222,"postal_code":null}
+{"id":20243,"code":null,"name":"Cabucgayan","type":"city","parent_id":20222,"postal_code":null}
+{"id":20256,"code":null,"name":"Caibiran","type":"city","parent_id":20222,"postal_code":null}
+{"id":20272,"code":null,"name":"Culaba","type":"city","parent_id":20222,"postal_code":null}
+{"id":20289,"code":null,"name":"Kawayan","type":"city","parent_id":20222,"postal_code":null}
+{"id":20309,"code":null,"name":"Naval","type":"city","parent_id":20222,"postal_code":null}
+{"id":20332,"code":null,"name":"Alburquerque","type":"city","parent_id":20331,"postal_code":null}
+{"id":20344,"code":null,"name":"Alicia","type":"city","parent_id":20331,"postal_code":null}
+{"id":20355,"code":null,"name":"Anda","type":"city","parent_id":20331,"postal_code":null}
+{"id":20367,"code":null,"name":"Antequera","type":"city","parent_id":20331,"postal_code":null}
+{"id":20389,"code":null,"name":"Baclayon","type":"city","parent_id":20331,"postal_code":null}
+{"id":20406,"code":null,"name":"Balilihan","type":"city","parent_id":20331,"postal_code":null}
+{"id":20433,"code":null,"name":"Batuan","type":"city","parent_id":20331,"postal_code":null}
+{"id":20446,"code":null,"name":"Bien Unido","type":"city","parent_id":20331,"postal_code":null}
+{"id":20454,"code":null,"name":"Bilar","type":"city","parent_id":20331,"postal_code":null}
+{"id":20471,"code":null,"name":"Buenavista","type":"city","parent_id":20331,"postal_code":null}
+{"id":20500,"code":null,"name":"Calape","type":"city","parent_id":20331,"postal_code":null}
+{"id":20528,"code":null,"name":"Candijay","type":"city","parent_id":20331,"postal_code":null}
+{"id":20549,"code":null,"name":"Carmen","type":"city","parent_id":20331,"postal_code":null}
+{"id":20575,"code":null,"name":"Catigbian","type":"city","parent_id":20331,"postal_code":null}
+{"id":20591,"code":null,"name":"Clarin","type":"city","parent_id":20331,"postal_code":null}
+{"id":20615,"code":null,"name":"Corella","type":"city","parent_id":20331,"postal_code":null}
+{"id":20624,"code":null,"name":"Cortes","type":"city","parent_id":20331,"postal_code":null}
+{"id":20638,"code":null,"name":"Dagohoy","type":"city","parent_id":20331,"postal_code":null}
+{"id":20651,"code":null,"name":"Danao","type":"city","parent_id":20331,"postal_code":null}
+{"id":20665,"code":null,"name":"Dauis","type":"city","parent_id":20331,"postal_code":null}
+{"id":20678,"code":null,"name":"Dimiao","type":"city","parent_id":20331,"postal_code":null}
+{"id":20704,"code":null,"name":"Duero","type":"city","parent_id":20331,"postal_code":null}
+{"id":20719,"code":null,"name":"Garcia Hernandez","type":"city","parent_id":20331,"postal_code":null}
+{"id":20824,"code":null,"name":"Getafe","type":"city","parent_id":20331,"postal_code":null}
+{"id":20743,"code":null,"name":"Guindulman","type":"city","parent_id":20331,"postal_code":null}
+{"id":20757,"code":null,"name":"Inabanga","type":"city","parent_id":20331,"postal_code":null}
+{"id":20795,"code":null,"name":"Jagna","type":"city","parent_id":20331,"postal_code":null}
+{"id":20839,"code":null,"name":"Lila","type":"city","parent_id":20331,"postal_code":null}
+{"id":20858,"code":null,"name":"Loay","type":"city","parent_id":20331,"postal_code":null}
+{"id":20883,"code":null,"name":"Loboc","type":"city","parent_id":20331,"postal_code":null}
+{"id":20912,"code":null,"name":"Loon","type":"city","parent_id":20331,"postal_code":null}
+{"id":20952,"code":null,"name":"Mabini","type":"city","parent_id":20331,"postal_code":null}
+{"id":20974,"code":null,"name":"Maribojoc","type":"city","parent_id":20331,"postal_code":null}
+{"id":20991,"code":null,"name":"Panglao","type":"city","parent_id":20331,"postal_code":null}
+{"id":21002,"code":null,"name":"Pilar","type":"city","parent_id":20331,"postal_code":null}
+{"id":21023,"code":null,"name":"Sagbayan (Borja)","type":"city","parent_id":20331,"postal_code":null}
+{"id":21047,"code":null,"name":"San Isidro","type":"city","parent_id":20331,"postal_code":null}
+{"id":21053,"code":null,"name":"San Miguel","type":"city","parent_id":20331,"postal_code":null}
+{"id":21072,"code":null,"name":"Sevilla","type":"city","parent_id":20331,"postal_code":null}
+{"id":21082,"code":null,"name":"Sierra Bullones","type":"city","parent_id":20331,"postal_code":null}
+{"id":21104,"code":null,"name":"Sikatuna","type":"city","parent_id":20331,"postal_code":null}
+{"id":21115,"code":null,"name":"Tagbilaran City (Capital)","type":"city","parent_id":20331,"postal_code":null}
+{"id":21131,"code":null,"name":"Talibon","type":"city","parent_id":20331,"postal_code":null}
+{"id":21148,"code":null,"name":"Trinidad","type":"city","parent_id":20331,"postal_code":null}
+{"id":21166,"code":null,"name":"Tubigon","type":"city","parent_id":20331,"postal_code":null}
+{"id":21193,"code":null,"name":"Ubay","type":"city","parent_id":20331,"postal_code":null}
+{"id":21235,"code":null,"name":"Valencia","type":"city","parent_id":20331,"postal_code":null}
+{"id":21251,"code":null,"name":"Damulog","type":"city","parent_id":21250,"postal_code":null}
+{"id":21256,"code":null,"name":"Dangcagan","type":"city","parent_id":21250,"postal_code":null}
+{"id":21260,"code":null,"name":"Don Carlos","type":"city","parent_id":21250,"postal_code":null}
+{"id":21265,"code":null,"name":"Impasug-ong","type":"city","parent_id":21250,"postal_code":null}
+{"id":21270,"code":null,"name":"Kalilangan","type":"city","parent_id":21250,"postal_code":null}
+{"id":21275,"code":null,"name":"Kibawe","type":"city","parent_id":21250,"postal_code":null}
+{"id":21283,"code":null,"name":"Kitaotao","type":"city","parent_id":21250,"postal_code":null}
+{"id":21288,"code":null,"name":"Lantapan","type":"city","parent_id":21250,"postal_code":null}
+{"id":21295,"code":null,"name":"Libona","type":"city","parent_id":21250,"postal_code":null}
+{"id":21303,"code":null,"name":"Malaybalay City","type":"city","parent_id":21250,"postal_code":null}
+{"id":21332,"code":null,"name":"Manolo Fortich","type":"city","parent_id":21250,"postal_code":null}
+{"id":21339,"code":null,"name":"Maramag","type":"city","parent_id":21250,"postal_code":null}
+{"id":21353,"code":null,"name":"Pangantucan","type":"city","parent_id":21250,"postal_code":null}
+{"id":21359,"code":null,"name":"Quezon","type":"city","parent_id":21250,"postal_code":null}
+{"id":21372,"code":null,"name":"Sumilao","type":"city","parent_id":21250,"postal_code":null}
+{"id":21375,"code":null,"name":"Talakag","type":"city","parent_id":21250,"postal_code":null}
+{"id":21383,"code":null,"name":"Valencia City","type":"city","parent_id":21250,"postal_code":null}
+{"id":21396,"code":null,"name":"Angat","type":"city","parent_id":21395,"postal_code":null}
+{"id":21409,"code":null,"name":"Balagtas","type":"city","parent_id":21395,"postal_code":null}
+{"id":21419,"code":null,"name":"Baliuag","type":"city","parent_id":21395,"postal_code":null}
+{"id":21447,"code":null,"name":"Bocaue","type":"city","parent_id":21395,"postal_code":null}
+{"id":21467,"code":null,"name":"Bulacan","type":"city","parent_id":21395,"postal_code":null}
+{"id":21482,"code":null,"name":"Bustos","type":"city","parent_id":21395,"postal_code":null}
+{"id":21497,"code":null,"name":"Calumpit","type":"city","parent_id":21395,"postal_code":null}
+{"id":21527,"code":null,"name":"Guiguinto","type":"city","parent_id":21395,"postal_code":null}
+{"id":21542,"code":null,"name":"Hagonoy","type":"city","parent_id":21395,"postal_code":null}
+{"id":21568,"code":null,"name":"Malolos","type":"city","parent_id":21395,"postal_code":null}
+{"id":21615,"code":null,"name":"Marilao","type":"city","parent_id":21395,"postal_code":null}
+{"id":21632,"code":null,"name":"Meycauayan","type":"city","parent_id":21395,"postal_code":null}
+{"id":21657,"code":null,"name":"Norzagaray","type":"city","parent_id":21395,"postal_code":null}
+{"id":21667,"code":null,"name":"Obando","type":"city","parent_id":21395,"postal_code":null}
+{"id":21678,"code":null,"name":"Pandi","type":"city","parent_id":21395,"postal_code":null}
+{"id":21701,"code":null,"name":"Paombong","type":"city","parent_id":21395,"postal_code":null}
+{"id":21712,"code":null,"name":"Plaridel","type":"city","parent_id":21395,"postal_code":null}
+{"id":21732,"code":null,"name":"Pulilan","type":"city","parent_id":21395,"postal_code":null}
+{"id":21752,"code":null,"name":"San Ildefonso","type":"city","parent_id":21395,"postal_code":null}
+{"id":21773,"code":null,"name":"San Jose del Monte","type":"city","parent_id":21395,"postal_code":null}
+{"id":21833,"code":null,"name":"San Miguel","type":"city","parent_id":21395,"postal_code":null}
+{"id":21872,"code":null,"name":"San Rafael","type":"city","parent_id":21395,"postal_code":null}
+{"id":21903,"code":null,"name":"Santa Maria","type":"city","parent_id":21395,"postal_code":null}
+{"id":21929,"code":null,"name":"Abulug","type":"city","parent_id":21928,"postal_code":null}
+{"id":21934,"code":null,"name":"Alcala","type":"city","parent_id":21928,"postal_code":null}
+{"id":21942,"code":null,"name":"Amulung","type":"city","parent_id":21928,"postal_code":null}
+{"id":21950,"code":null,"name":"Aparri","type":"city","parent_id":21928,"postal_code":null}
+{"id":21974,"code":null,"name":"Camalaniugan","type":"city","parent_id":21928,"postal_code":null}
+{"id":21988,"code":null,"name":"Claveria","type":"city","parent_id":21928,"postal_code":null}
+{"id":22009,"code":null,"name":"Enrile","type":"city","parent_id":21928,"postal_code":null}
+{"id":22017,"code":null,"name":"Gattaran","type":"city","parent_id":21928,"postal_code":null}
+{"id":22037,"code":null,"name":"Iguig","type":"city","parent_id":21928,"postal_code":null}
+{"id":22056,"code":null,"name":"Lal-lo","type":"city","parent_id":21928,"postal_code":null}
+{"id":22066,"code":null,"name":"Pamplona","type":"city","parent_id":21928,"postal_code":null}
+{"id":22076,"code":null,"name":"Penablanca","type":"city","parent_id":21928,"postal_code":null}
+{"id":22080,"code":null,"name":"Sanchez-Mira","type":"city","parent_id":21928,"postal_code":null}
+{"id":22096,"code":null,"name":"Solana","type":"city","parent_id":21928,"postal_code":null}
+{"id":22107,"code":null,"name":"Tuguegarao (Capital)","type":"city","parent_id":21928,"postal_code":null}
+{"id":22158,"code":null,"name":"Basud","type":"city","parent_id":22157,"postal_code":null}
+{"id":22168,"code":null,"name":"Daet","type":"city","parent_id":22157,"postal_code":null}
+{"id":22194,"code":null,"name":"Jose Panganiban","type":"city","parent_id":22157,"postal_code":null}
+{"id":22202,"code":null,"name":"Labo","type":"city","parent_id":22157,"postal_code":null}
+{"id":22222,"code":null,"name":"Mercedez","type":"city","parent_id":22157,"postal_code":null}
+{"id":22232,"code":null,"name":"Paracale","type":"city","parent_id":22157,"postal_code":null}
+{"id":22241,"code":null,"name":"San Vicente","type":"city","parent_id":22157,"postal_code":null}
+{"id":22245,"code":null,"name":"Talisay","type":"city","parent_id":22157,"postal_code":null}
+{"id":22255,"code":null,"name":"Vinzons","type":"city","parent_id":22157,"postal_code":null}
+{"id":22266,"code":null,"name":"Baao","type":"city","parent_id":22265,"postal_code":null}
+{"id":22284,"code":null,"name":"Bato","type":"city","parent_id":22265,"postal_code":null}
+{"id":22294,"code":null,"name":"Bombon","type":"city","parent_id":22265,"postal_code":null}
+{"id":22301,"code":null,"name":"Buhi","type":"city","parent_id":22265,"postal_code":null}
+{"id":22315,"code":null,"name":"Bula","type":"city","parent_id":22265,"postal_code":null}
+{"id":22323,"code":null,"name":"Cabusao","type":"city","parent_id":22265,"postal_code":null}
+{"id":22332,"code":null,"name":"Calabanga","type":"city","parent_id":22265,"postal_code":null}
+{"id":22361,"code":null,"name":"Camaligan","type":"city","parent_id":22265,"postal_code":null}
+{"id":22373,"code":null,"name":"Canaman","type":"city","parent_id":22265,"postal_code":null}
+{"id":22387,"code":null,"name":"Gainza","type":"city","parent_id":22265,"postal_code":null}
+{"id":22393,"code":null,"name":"Goa","type":"city","parent_id":22265,"postal_code":null}
+{"id":22410,"code":null,"name":"Iriga City","type":"city","parent_id":22265,"postal_code":null}
+{"id":22433,"code":null,"name":"Lagonoy","type":"city","parent_id":22265,"postal_code":null}
+{"id":22443,"code":null,"name":"Libmanan","type":"city","parent_id":22265,"postal_code":null}
+{"id":22475,"code":null,"name":"Lupi","type":"city","parent_id":22265,"postal_code":null}
+{"id":22480,"code":null,"name":"Magarao","type":"city","parent_id":22265,"postal_code":null}
+{"id":22491,"code":null,"name":"Milaor","type":"city","parent_id":22265,"postal_code":null}
+{"id":22504,"code":null,"name":"Minalabac","type":"city","parent_id":22265,"postal_code":null}
+{"id":22512,"code":null,"name":"Nabua","type":"city","parent_id":22265,"postal_code":null}
+{"id":22537,"code":null,"name":"Naga City","type":"city","parent_id":22265,"postal_code":null}
+{"id":22565,"code":null,"name":"Ocampo","type":"city","parent_id":22265,"postal_code":null}
+{"id":22581,"code":null,"name":"Pamplona","type":"city","parent_id":22265,"postal_code":null}
+{"id":22591,"code":null,"name":"Pasacao","type":"city","parent_id":22265,"postal_code":null}
+{"id":22598,"code":null,"name":"Pili","type":"city","parent_id":22265,"postal_code":null}
+{"id":22619,"code":null,"name":"Ragay","type":"city","parent_id":22265,"postal_code":null}
+{"id":22635,"code":null,"name":"Sagnay","type":"city","parent_id":22265,"postal_code":null}
+{"id":22642,"code":null,"name":"San Fernando","type":"city","parent_id":22265,"postal_code":null}
+{"id":22653,"code":null,"name":"San Jose","type":"city","parent_id":22265,"postal_code":null}
+{"id":22667,"code":null,"name":"Sipocot","type":"city","parent_id":22265,"postal_code":null}
+{"id":22684,"code":null,"name":"Tigaon","type":"city","parent_id":22265,"postal_code":null}
+{"id":22699,"code":null,"name":"Tinambac","type":"city","parent_id":22265,"postal_code":null}
+{"id":22712,"code":null,"name":"Catarman","type":"city","parent_id":22711,"postal_code":null}
+{"id":22720,"code":null,"name":"Guinsiliban","type":"city","parent_id":22711,"postal_code":null}
+{"id":22726,"code":null,"name":"Mahinog","type":"city","parent_id":22711,"postal_code":null}
+{"id":22735,"code":null,"name":"Mambajao","type":"city","parent_id":22711,"postal_code":null}
+{"id":22749,"code":null,"name":"Sagay","type":"city","parent_id":22711,"postal_code":null}
+{"id":22756,"code":null,"name":"Cuartero","type":"city","parent_id":22755,"postal_code":null}
+{"id":22763,"code":null,"name":"Dao","type":"city","parent_id":22755,"postal_code":null}
+{"id":22769,"code":null,"name":"Dumalag","type":"city","parent_id":22755,"postal_code":null}
+{"id":22775,"code":null,"name":"Dumarao","type":"city","parent_id":22755,"postal_code":null}
+{"id":22784,"code":null,"name":"Ivisan","type":"city","parent_id":22755,"postal_code":null}
+{"id":22796,"code":null,"name":"Jamindan","type":"city","parent_id":22755,"postal_code":null}
+{"id":22802,"code":null,"name":"Maayon","type":"city","parent_id":22755,"postal_code":null}
+{"id":22806,"code":null,"name":"Mambusao","type":"city","parent_id":22755,"postal_code":null}
+{"id":22816,"code":null,"name":"Panay","type":"city","parent_id":22755,"postal_code":null}
+{"id":22842,"code":null,"name":"Panitan","type":"city","parent_id":22755,"postal_code":null}
+{"id":22854,"code":null,"name":"Pilar","type":"city","parent_id":22755,"postal_code":null}
+{"id":22866,"code":null,"name":"Pontevedra","type":"city","parent_id":22755,"postal_code":null}
+{"id":22881,"code":null,"name":"President Roxas","type":"city","parent_id":22755,"postal_code":null}
+{"id":22893,"code":null,"name":"Roxas City","type":"city","parent_id":22755,"postal_code":null}
+{"id":22936,"code":null,"name":"Sigma","type":"city","parent_id":22755,"postal_code":null}
+{"id":22947,"code":null,"name":"Bato","type":"city","parent_id":22946,"postal_code":null}
+{"id":22957,"code":null,"name":"Virac","type":"city","parent_id":22946,"postal_code":null}
+{"id":23011,"code":null,"name":"Alfonso","type":"city","parent_id":23010,"postal_code":null}
+{"id":23043,"code":null,"name":"Amadeo","type":"city","parent_id":23010,"postal_code":null}
+{"id":23070,"code":null,"name":"Bacoor","type":"city","parent_id":23010,"postal_code":null}
+{"id":23144,"code":null,"name":"Carmona","type":"city","parent_id":23010,"postal_code":null}
+{"id":23159,"code":null,"name":"Cavite City","type":"city","parent_id":23010,"postal_code":null}
+{"id":23244,"code":null,"name":"Dasmarinas","type":"city","parent_id":23010,"postal_code":null}
+{"id":23340,"code":null,"name":"General Aguinaldo","type":"city","parent_id":23010,"postal_code":null}
+{"id":23351,"code":null,"name":"General Trias","type":"city","parent_id":23010,"postal_code":null}
+{"id":23313,"code":null,"name":"G.M.A.","type":"city","parent_id":23010,"postal_code":null}
+{"id":23383,"code":null,"name":"Imus","type":"city","parent_id":23010,"postal_code":null}
+{"id":23480,"code":null,"name":"Indang","type":"city","parent_id":23010,"postal_code":null}
+{"id":23517,"code":null,"name":"Kawit","type":"city","parent_id":23010,"postal_code":null}
+{"id":23541,"code":null,"name":"Maragondon","type":"city","parent_id":23010,"postal_code":null}
+{"id":23581,"code":null,"name":"Naic","type":"city","parent_id":23010,"postal_code":null}
+{"id":23610,"code":null,"name":"Noveleta","type":"city","parent_id":23010,"postal_code":null}
+{"id":23627,"code":null,"name":"Rosario","type":"city","parent_id":23010,"postal_code":null}
+{"id":23647,"code":null,"name":"Silang","type":"city","parent_id":23010,"postal_code":null}
+{"id":23708,"code":null,"name":"Tagaytay","type":"city","parent_id":23010,"postal_code":null}
+{"id":23730,"code":null,"name":"Tanza","type":"city","parent_id":23010,"postal_code":null}
+{"id":23770,"code":null,"name":"Ternate","type":"city","parent_id":23010,"postal_code":null}
+{"id":23781,"code":null,"name":"Trece Martirez","type":"city","parent_id":23010,"postal_code":null}
+{"id":23795,"code":null,"name":"Alcantara","type":"city","parent_id":23794,"postal_code":null}
+{"id":23802,"code":null,"name":"Alcoy","type":"city","parent_id":23794,"postal_code":null}
+{"id":23811,"code":null,"name":"Alegria","type":"city","parent_id":23794,"postal_code":null}
+{"id":23821,"code":null,"name":"Aloguinsan","type":"city","parent_id":23794,"postal_code":null}
+{"id":23823,"code":null,"name":"Argao","type":"city","parent_id":23794,"postal_code":null}
+{"id":23869,"code":null,"name":"Asturias","type":"city","parent_id":23794,"postal_code":null}
+{"id":23880,"code":null,"name":"Badian","type":"city","parent_id":23794,"postal_code":null}
+{"id":23891,"code":null,"name":"Balamban","type":"city","parent_id":23794,"postal_code":null}
+{"id":23900,"code":null,"name":"Bantayan","type":"city","parent_id":23794,"postal_code":null}
+{"id":23920,"code":null,"name":"Barili","type":"city","parent_id":23794,"postal_code":null}
+{"id":23953,"code":null,"name":"Bogo","type":"city","parent_id":23794,"postal_code":null}
+{"id":23983,"code":null,"name":"Boljoon","type":"city","parent_id":23794,"postal_code":null}
+{"id":23989,"code":null,"name":"Borbon","type":"city","parent_id":23794,"postal_code":null}
+{"id":24000,"code":null,"name":"Carcar","type":"city","parent_id":23794,"postal_code":null}
+{"id":24011,"code":null,"name":"Carmen","type":"city","parent_id":23794,"postal_code":null}
+{"id":24024,"code":null,"name":"Catmon","type":"city","parent_id":23794,"postal_code":null}
+{"id":24034,"code":null,"name":"Cebu City","type":"city","parent_id":23794,"postal_code":null}
+{"id":24098,"code":null,"name":"Compostela","type":"city","parent_id":23794,"postal_code":null}
+{"id":24109,"code":null,"name":"Consolacion","type":"city","parent_id":23794,"postal_code":null}
+{"id":24127,"code":null,"name":"Cordova","type":"city","parent_id":23794,"postal_code":null}
+{"id":24140,"code":null,"name":"Daan Bantayan","type":"city","parent_id":23794,"postal_code":null}
+{"id":24159,"code":null,"name":"Dalaguete","type":"city","parent_id":23794,"postal_code":null}
+{"id":24184,"code":null,"name":"Danao City","type":"city","parent_id":23794,"postal_code":null}
+{"id":24210,"code":null,"name":"Dumanjug","type":"city","parent_id":23794,"postal_code":null}
+{"id":24229,"code":null,"name":"Ginatilan","type":"city","parent_id":23794,"postal_code":null}
+{"id":24236,"code":null,"name":"Lapu-Lapu City","type":"city","parent_id":23794,"postal_code":null}
+{"id":24261,"code":null,"name":"Lilo-an","type":"city","parent_id":23794,"postal_code":null}
+{"id":24273,"code":null,"name":"Madridejos","type":"city","parent_id":23794,"postal_code":null}
+{"id":24288,"code":null,"name":"Malabuyoc","type":"city","parent_id":23794,"postal_code":null}
+{"id":24298,"code":null,"name":"Mandaue","type":"city","parent_id":23794,"postal_code":null}
+{"id":24326,"code":null,"name":"Medellin","type":"city","parent_id":23794,"postal_code":null}
+{"id":24342,"code":null,"name":"Minglanilla","type":"city","parent_id":23794,"postal_code":null}
+{"id":24359,"code":null,"name":"Moalboal","type":"city","parent_id":23794,"postal_code":null}
+{"id":24372,"code":null,"name":"Naga","type":"city","parent_id":23794,"postal_code":null}
+{"id":24391,"code":null,"name":"Oslob","type":"city","parent_id":23794,"postal_code":null}
+{"id":24401,"code":null,"name":"Pinamungajan","type":"city","parent_id":23794,"postal_code":null}
+{"id":24407,"code":null,"name":"Ronda","type":"city","parent_id":23794,"postal_code":null}
+{"id":24419,"code":null,"name":"Samboan","type":"city","parent_id":23794,"postal_code":null}
+{"id":24427,"code":null,"name":"San Fernando","type":"city","parent_id":23794,"postal_code":null}
+{"id":24435,"code":null,"name":"San Remegio","type":"city","parent_id":23794,"postal_code":null}
+{"id":24459,"code":null,"name":"Santa Fe","type":"city","parent_id":23794,"postal_code":null}
+{"id":24466,"code":null,"name":"San Tander","type":"city","parent_id":23794,"postal_code":null}
+{"id":24476,"code":null,"name":"Sibonga","type":"city","parent_id":23794,"postal_code":null}
+{"id":24502,"code":null,"name":"Sogod","type":"city","parent_id":23794,"postal_code":null}
+{"id":24516,"code":null,"name":"Tabogon","type":"city","parent_id":23794,"postal_code":null}
+{"id":24542,"code":null,"name":"Tabuelan","type":"city","parent_id":23794,"postal_code":null}
+{"id":24555,"code":null,"name":"Talisay","type":"city","parent_id":23794,"postal_code":null}
+{"id":24576,"code":null,"name":"Toledo City","type":"city","parent_id":23794,"postal_code":null}
+{"id":24596,"code":null,"name":"Tuburan","type":"city","parent_id":23794,"postal_code":null}
+{"id":24618,"code":null,"name":"Tudela","type":"city","parent_id":23794,"postal_code":null}
+{"id":24628,"code":null,"name":"Compostela","type":"city","parent_id":24627,"postal_code":null}
+{"id":24637,"code":null,"name":"Mawab","type":"city","parent_id":24627,"postal_code":null}
+{"id":24640,"code":null,"name":"Monkayo","type":"city","parent_id":24627,"postal_code":null}
+{"id":24653,"code":null,"name":"Montevista","type":"city","parent_id":24627,"postal_code":null}
+{"id":24660,"code":null,"name":"Nabunturan","type":"city","parent_id":24627,"postal_code":null}
+{"id":24671,"code":null,"name":"New Bataan","type":"city","parent_id":24627,"postal_code":null}
+{"id":24676,"code":null,"name":"Pantukan","type":"city","parent_id":24627,"postal_code":null}
+{"id":24867,"code":null,"name":"Babak, Island Garden City of Samal","type":"city","parent_id":24810,"postal_code":null}
+{"id":24811,"code":null,"name":"Carmen","type":"city","parent_id":24810,"postal_code":null}
+{"id":24823,"code":null,"name":"Kapalong","type":"city","parent_id":24810,"postal_code":null}
+{"id":24826,"code":null,"name":"Panabo","type":"city","parent_id":24810,"postal_code":null}
+{"id":24874,"code":null,"name":"Santo Tomas","type":"city","parent_id":24810,"postal_code":null}
+{"id":24893,"code":null,"name":"Tagum City","type":"city","parent_id":24810,"postal_code":null}
+{"id":24906,"code":null,"name":"Bansalan","type":"city","parent_id":24905,"postal_code":null}
+{"id":24916,"code":null,"name":"Davao City","type":"city","parent_id":24905,"postal_code":null}
+{"id":25099,"code":null,"name":"Digos","type":"city","parent_id":24905,"postal_code":null}
+{"id":25123,"code":null,"name":"Hagonoy","type":"city","parent_id":24905,"postal_code":null}
+{"id":25133,"code":null,"name":"Kiblawan","type":"city","parent_id":24905,"postal_code":null}
+{"id":25135,"code":null,"name":"Magsaysay","type":"city","parent_id":24905,"postal_code":null}
+{"id":25139,"code":null,"name":"Malalag","type":"city","parent_id":24905,"postal_code":null}
+{"id":25145,"code":null,"name":"Malita","type":"city","parent_id":24905,"postal_code":null}
+{"id":25155,"code":null,"name":"Matanao","type":"city","parent_id":24905,"postal_code":null}
+{"id":25162,"code":null,"name":"Padada","type":"city","parent_id":24905,"postal_code":null}
+{"id":25179,"code":null,"name":"Santa Cruz","type":"city","parent_id":24905,"postal_code":null}
+{"id":25192,"code":null,"name":"Santa Maria","type":"city","parent_id":24905,"postal_code":null}
+{"id":25196,"code":null,"name":"Sulop","type":"city","parent_id":24905,"postal_code":null}
+{"id":25204,"code":null,"name":"Baganga","type":"city","parent_id":25203,"postal_code":null}
+{"id":25211,"code":null,"name":"Banay Banay","type":"city","parent_id":25203,"postal_code":null}
+{"id":25226,"code":null,"name":"Boston","type":"city","parent_id":25203,"postal_code":null}
+{"id":25233,"code":null,"name":"Cateel","type":"city","parent_id":25203,"postal_code":null}
+{"id":25239,"code":null,"name":"Lupon","type":"city","parent_id":25203,"postal_code":null}
+{"id":25254,"code":null,"name":"Mati","type":"city","parent_id":25203,"postal_code":null}
+{"id":25259,"code":null,"name":"San Isidro","type":"city","parent_id":25203,"postal_code":null}
+{"id":25267,"code":null,"name":"Basilisa","type":"city","parent_id":25266,"postal_code":null}
+{"id":25275,"code":null,"name":"Cagdianao","type":"city","parent_id":25266,"postal_code":null}
+{"id":25281,"code":null,"name":"Dinagat","type":"city","parent_id":25266,"postal_code":null}
+{"id":25291,"code":null,"name":"San Jose","type":"city","parent_id":25266,"postal_code":null}
+{"id":25303,"code":null,"name":"Balangkayan","type":"city","parent_id":25302,"postal_code":null}
+{"id":25309,"code":null,"name":"Borongan","type":"city","parent_id":25302,"postal_code":null}
+{"id":25347,"code":null,"name":"Guiuan","type":"city","parent_id":25302,"postal_code":null}
+{"id":25383,"code":null,"name":"Maydolong","type":"city","parent_id":25302,"postal_code":null}
+{"id":25395,"code":null,"name":"Mercedes","type":"city","parent_id":25302,"postal_code":null}
+{"id":25403,"code":null,"name":"Salcedo","type":"city","parent_id":25302,"postal_code":null}
+{"id":25424,"code":null,"name":"San Julian","type":"city","parent_id":25302,"postal_code":null}
+{"id":25434,"code":null,"name":"Sulat","type":"city","parent_id":25302,"postal_code":null}
+{"id":25444,"code":null,"name":"Buenavista","type":"city","parent_id":25443,"postal_code":null}
+{"id":25475,"code":null,"name":"Jordan","type":"city","parent_id":25443,"postal_code":null}
+{"id":25489,"code":null,"name":"Nueva Valencia","type":"city","parent_id":25443,"postal_code":null}
+{"id":25508,"code":null,"name":"San Lorenzo","type":"city","parent_id":25443,"postal_code":null}
+{"id":25520,"code":null,"name":"Sibunag","type":"city","parent_id":25443,"postal_code":null}
+{"id":25535,"code":null,"name":"Lagawe (Capital)","type":"city","parent_id":25534,"postal_code":null}
+{"id":25544,"code":null,"name":"Lamut","type":"city","parent_id":25534,"postal_code":null}
+{"id":25550,"code":null,"name":"Bacarra","type":"city","parent_id":25549,"postal_code":null}
+{"id":25582,"code":null,"name":"Badoc","type":"city","parent_id":25549,"postal_code":null}
+{"id":25609,"code":null,"name":"Bangui","type":"city","parent_id":25549,"postal_code":null}
+{"id":25638,"code":null,"name":"Batac","type":"city","parent_id":25549,"postal_code":null}
+{"id":25671,"code":null,"name":"Burgos","type":"city","parent_id":25549,"postal_code":null}
+{"id":25680,"code":null,"name":"Currimao","type":"city","parent_id":25549,"postal_code":null}
+{"id":25695,"code":null,"name":"Dingras","type":"city","parent_id":25549,"postal_code":null}
+{"id":25622,"code":null,"name":"Espiritu (Banna)","type":"city","parent_id":25549,"postal_code":null}
+{"id":25717,"code":null,"name":"Laoag City (Capital)","type":"city","parent_id":25549,"postal_code":null}
+{"id":25798,"code":null,"name":"Marcos","type":"city","parent_id":25549,"postal_code":null}
+{"id":25805,"code":null,"name":"Nueva Era","type":"city","parent_id":25549,"postal_code":null}
+{"id":25809,"code":null,"name":"Pagudpud","type":"city","parent_id":25549,"postal_code":null}
+{"id":25814,"code":null,"name":"Paoay","type":"city","parent_id":25549,"postal_code":null}
+{"id":25845,"code":null,"name":"Pasuquin","type":"city","parent_id":25549,"postal_code":null}
+{"id":25867,"code":null,"name":"Piddig","type":"city","parent_id":25549,"postal_code":null}
+{"id":25883,"code":null,"name":"Pinili","type":"city","parent_id":25549,"postal_code":null}
+{"id":25899,"code":null,"name":"San Nicolas","type":"city","parent_id":25549,"postal_code":null}
+{"id":25924,"code":null,"name":"Sarrat","type":"city","parent_id":25549,"postal_code":null}
+{"id":25948,"code":null,"name":"Solsona","type":"city","parent_id":25549,"postal_code":null}
+{"id":25966,"code":null,"name":"Vintar","type":"city","parent_id":25549,"postal_code":null}
+{"id":25978,"code":null,"name":"Bantay","type":"city","parent_id":25977,"postal_code":null}
+{"id":26011,"code":null,"name":"Burgos","type":"city","parent_id":25977,"postal_code":null}
+{"id":26015,"code":null,"name":"Cabugao","type":"city","parent_id":25977,"postal_code":null}
+{"id":26036,"code":null,"name":"Candon","type":"city","parent_id":25977,"postal_code":null}
+{"id":26060,"code":null,"name":"Caoayan","type":"city","parent_id":25977,"postal_code":null}
+{"id":26075,"code":null,"name":"Magsingal","type":"city","parent_id":25977,"postal_code":null}
+{"id":26097,"code":null,"name":"Nagbukel","type":"city","parent_id":25977,"postal_code":null}
+{"id":26099,"code":null,"name":"Narvacan","type":"city","parent_id":25977,"postal_code":null}
+{"id":26122,"code":null,"name":"San Esteban","type":"city","parent_id":25977,"postal_code":null}
+{"id":26130,"code":null,"name":"San Ildefonso","type":"city","parent_id":25977,"postal_code":null}
+{"id":26145,"code":null,"name":"San Juan (Lapog)","type":"city","parent_id":25977,"postal_code":null}
+{"id":26181,"code":null,"name":"Santa","type":"city","parent_id":25977,"postal_code":null}
+{"id":26205,"code":null,"name":"Santa Catalina","type":"city","parent_id":25977,"postal_code":null}
+{"id":26215,"code":null,"name":"Santa Cruz","type":"city","parent_id":25977,"postal_code":null}
+{"id":26252,"code":null,"name":"Santa Lucia","type":"city","parent_id":25977,"postal_code":null}
+{"id":26272,"code":null,"name":"Santa Maria","type":"city","parent_id":25977,"postal_code":null}
+{"id":26292,"code":null,"name":"Santiago","type":"city","parent_id":25977,"postal_code":null}
+{"id":26309,"code":null,"name":"Santo Domingo","type":"city","parent_id":25977,"postal_code":null}
+{"id":26173,"code":null,"name":"San Vicente","type":"city","parent_id":25977,"postal_code":null}
+{"id":26344,"code":null,"name":"Sinait","type":"city","parent_id":25977,"postal_code":null}
+{"id":26374,"code":null,"name":"Tagudin","type":"city","parent_id":25977,"postal_code":null}
+{"id":26409,"code":null,"name":"Vigan (Capital)","type":"city","parent_id":25977,"postal_code":null}
+{"id":26450,"code":null,"name":"Ajuy","type":"city","parent_id":26449,"postal_code":null}
+{"id":26459,"code":null,"name":"Alimodian","type":"city","parent_id":26449,"postal_code":null}
+{"id":26465,"code":null,"name":"Anilao","type":"city","parent_id":26449,"postal_code":null}
+{"id":26473,"code":null,"name":"Badiangan","type":"city","parent_id":26449,"postal_code":null}
+{"id":26477,"code":null,"name":"Balasan","type":"city","parent_id":26449,"postal_code":null}
+{"id":26488,"code":null,"name":"Banate","type":"city","parent_id":26449,"postal_code":null}
+{"id":26496,"code":null,"name":"Barotac Nuevo","type":"city","parent_id":26449,"postal_code":null}
+{"id":26511,"code":null,"name":"Barotac Viejo","type":"city","parent_id":26449,"postal_code":null}
+{"id":26515,"code":null,"name":"Batad","type":"city","parent_id":26449,"postal_code":null}
+{"id":26525,"code":null,"name":"Bingawan","type":"city","parent_id":26449,"postal_code":null}
+{"id":26530,"code":null,"name":"Cabatuan","type":"city","parent_id":26449,"postal_code":null}
+{"id":26554,"code":null,"name":"Calinog","type":"city","parent_id":26449,"postal_code":null}
+{"id":26572,"code":null,"name":"Carles","type":"city","parent_id":26449,"postal_code":null}
+{"id":26585,"code":null,"name":"Concepcion","type":"city","parent_id":26449,"postal_code":null}
+{"id":26594,"code":null,"name":"Dingle","type":"city","parent_id":26449,"postal_code":null}
+{"id":26607,"code":null,"name":"Duenas","type":"city","parent_id":26449,"postal_code":null}
+{"id":26616,"code":null,"name":"Dumangas","type":"city","parent_id":26449,"postal_code":null}
+{"id":26629,"code":null,"name":"Estancia","type":"city","parent_id":26449,"postal_code":null}
+{"id":26643,"code":null,"name":"Guimbal","type":"city","parent_id":26449,"postal_code":null}
+{"id":26659,"code":null,"name":"Igbaras","type":"city","parent_id":26449,"postal_code":null}
+{"id":26668,"code":null,"name":"Iloilo City","type":"city","parent_id":26449,"postal_code":null}
+{"id":26849,"code":null,"name":"Janiuay","type":"city","parent_id":26449,"postal_code":null}
+{"id":26864,"code":null,"name":"Lambunao","type":"city","parent_id":26449,"postal_code":null}
+{"id":26871,"code":null,"name":"Leganes","type":"city","parent_id":26449,"postal_code":null}
+{"id":26879,"code":null,"name":"Lemery","type":"city","parent_id":26449,"postal_code":null}
+{"id":26886,"code":null,"name":"Leon","type":"city","parent_id":26449,"postal_code":null}
+{"id":26893,"code":null,"name":"Maasin","type":"city","parent_id":26449,"postal_code":null}
+{"id":26900,"code":null,"name":"Miag-ao","type":"city","parent_id":26449,"postal_code":null}
+{"id":26937,"code":null,"name":"Mina","type":"city","parent_id":26449,"postal_code":null}
+{"id":26944,"code":null,"name":"New Lucena","type":"city","parent_id":26449,"postal_code":null}
+{"id":26949,"code":null,"name":"Oton","type":"city","parent_id":26449,"postal_code":null}
+{"id":26962,"code":null,"name":"Passi","type":"city","parent_id":26449,"postal_code":null}
+{"id":27008,"code":null,"name":"Pavia","type":"city","parent_id":26449,"postal_code":null}
+{"id":27023,"code":null,"name":"Pototan","type":"city","parent_id":26449,"postal_code":null}
+{"id":27047,"code":null,"name":"San Dionisio","type":"city","parent_id":26449,"postal_code":null}
+{"id":27062,"code":null,"name":"San Enrique","type":"city","parent_id":26449,"postal_code":null}
+{"id":27071,"code":null,"name":"San Joaquin","type":"city","parent_id":26449,"postal_code":null}
+{"id":27087,"code":null,"name":"San Miguel","type":"city","parent_id":26449,"postal_code":null}
+{"id":27107,"code":null,"name":"Santa Barbara","type":"city","parent_id":26449,"postal_code":null}
+{"id":27122,"code":null,"name":"Sara","type":"city","parent_id":26449,"postal_code":null}
+{"id":27148,"code":null,"name":"Tigbauan","type":"city","parent_id":26449,"postal_code":null}
+{"id":27169,"code":null,"name":"Zarraga","type":"city","parent_id":26449,"postal_code":null}
+{"id":27183,"code":null,"name":"Alicia","type":"city","parent_id":27182,"postal_code":null}
+{"id":27200,"code":null,"name":"Angadanan","type":"city","parent_id":27182,"postal_code":null}
+{"id":27206,"code":null,"name":"Burgos","type":"city","parent_id":27182,"postal_code":null}
+{"id":27208,"code":null,"name":"Cabagan","type":"city","parent_id":27182,"postal_code":null}
+{"id":27222,"code":null,"name":"Cauayan","type":"city","parent_id":27182,"postal_code":null}
+{"id":27251,"code":null,"name":"Cordon","type":"city","parent_id":27182,"postal_code":null}
+{"id":27264,"code":null,"name":"Echague","type":"city","parent_id":27182,"postal_code":null}
+{"id":27273,"code":null,"name":"Gamu","type":"city","parent_id":27182,"postal_code":null}
+{"id":27280,"code":null,"name":"Ilagan City","type":"city","parent_id":27182,"postal_code":null}
+{"id":27309,"code":null,"name":"Naguilian","type":"city","parent_id":27182,"postal_code":null}
+{"id":27317,"code":null,"name":"Ramon","type":"city","parent_id":27182,"postal_code":null}
+{"id":27323,"code":null,"name":"Reina Mercedes","type":"city","parent_id":27182,"postal_code":null}
+{"id":27328,"code":null,"name":"Roxas","type":"city","parent_id":27182,"postal_code":null}
+{"id":27354,"code":null,"name":"San Isidro","type":"city","parent_id":27182,"postal_code":null}
+{"id":27358,"code":null,"name":"San Manuel","type":"city","parent_id":27182,"postal_code":null}
+{"id":27369,"code":null,"name":"San Mateo","type":"city","parent_id":27182,"postal_code":null}
+{"id":27382,"code":null,"name":"San Pablo","type":"city","parent_id":27182,"postal_code":null}
+{"id":27387,"code":null,"name":"Santiago City","type":"city","parent_id":27182,"postal_code":null}
+{"id":27425,"code":null,"name":"Tumauini","type":"city","parent_id":27182,"postal_code":null}
+{"id":27437,"code":null,"name":"Tabuk","type":"city","parent_id":27436,"postal_code":null}
+{"id":27850,"code":null,"name":"Alaminos","type":"city","parent_id":27849,"postal_code":null}
+{"id":27865,"code":null,"name":"Bay","type":"city","parent_id":27849,"postal_code":null}
+{"id":27880,"code":null,"name":"Binan","type":"city","parent_id":27849,"postal_code":null}
+{"id":27905,"code":null,"name":"Cabuyao","type":"city","parent_id":27849,"postal_code":null}
+{"id":27924,"code":null,"name":"Calamba","type":"city","parent_id":27849,"postal_code":null}
+{"id":27966,"code":null,"name":"Calauan","type":"city","parent_id":27849,"postal_code":null}
+{"id":27981,"code":null,"name":"Cavinti","type":"city","parent_id":27849,"postal_code":null}
+{"id":27987,"code":null,"name":"Famy","type":"city","parent_id":27849,"postal_code":null}
+{"id":28000,"code":null,"name":"Kalayaan","type":"city","parent_id":27849,"postal_code":null}
+{"id":28004,"code":null,"name":"Liliw","type":"city","parent_id":27849,"postal_code":null}
+{"id":28020,"code":null,"name":"Los Banos","type":"city","parent_id":27849,"postal_code":null}
+{"id":28034,"code":null,"name":"Luisiana","type":"city","parent_id":27849,"postal_code":null}
+{"id":28050,"code":null,"name":"Lumban","type":"city","parent_id":27849,"postal_code":null}
+{"id":28065,"code":null,"name":"Mabitac","type":"city","parent_id":27849,"postal_code":null}
+{"id":28077,"code":null,"name":"Magdalena","type":"city","parent_id":27849,"postal_code":null}
+{"id":28088,"code":null,"name":"Majayjay","type":"city","parent_id":27849,"postal_code":null}
+{"id":28103,"code":null,"name":"Nagcarlan","type":"city","parent_id":27849,"postal_code":null}
+{"id":28123,"code":null,"name":"Paete","type":"city","parent_id":27849,"postal_code":null}
+{"id":28133,"code":null,"name":"Pagsanjan","type":"city","parent_id":27849,"postal_code":null}
+{"id":28145,"code":null,"name":"Pakil","type":"city","parent_id":27849,"postal_code":null}
+{"id":28152,"code":null,"name":"Pangil","type":"city","parent_id":27849,"postal_code":null}
+{"id":28158,"code":null,"name":"Pila","type":"city","parent_id":27849,"postal_code":null}
+{"id":28174,"code":null,"name":"Rizal","type":"city","parent_id":27849,"postal_code":null}
+{"id":28184,"code":null,"name":"San Pablo City","type":"city","parent_id":27849,"postal_code":null}
+{"id":28264,"code":null,"name":"San Pedro","type":"city","parent_id":27849,"postal_code":null}
+{"id":28292,"code":null,"name":"Santa Cruz","type":"city","parent_id":27849,"postal_code":null}
+{"id":28316,"code":null,"name":"Santa Maria","type":"city","parent_id":27849,"postal_code":null}
+{"id":28323,"code":null,"name":"Santa Rosa","type":"city","parent_id":27849,"postal_code":null}
+{"id":28342,"code":null,"name":"Siniloan","type":"city","parent_id":27849,"postal_code":null}
+{"id":28363,"code":null,"name":"Victoria","type":"city","parent_id":27849,"postal_code":null}
+{"id":28372,"code":null,"name":"Bacolod","type":"city","parent_id":28371,"postal_code":null}
+{"id":28379,"code":null,"name":"Baroy","type":"city","parent_id":28371,"postal_code":null}
+{"id":28390,"code":null,"name":"Iligan","type":"city","parent_id":28371,"postal_code":null}
+{"id":28420,"code":null,"name":"Kapatagan","type":"city","parent_id":28371,"postal_code":null}
+{"id":28431,"code":null,"name":"Kauswagan","type":"city","parent_id":28371,"postal_code":null}
+{"id":28437,"code":null,"name":"Kolambugan","type":"city","parent_id":28371,"postal_code":null}
+{"id":28451,"code":null,"name":"Lala","type":"city","parent_id":28371,"postal_code":null}
+{"id":28459,"code":null,"name":"Linamon","type":"city","parent_id":28371,"postal_code":null}
+{"id":28464,"code":null,"name":"Maigo","type":"city","parent_id":28371,"postal_code":null}
+{"id":28472,"code":null,"name":"Tubod","type":"city","parent_id":28371,"postal_code":null}
+{"id":28491,"code":null,"name":"Wao","type":"city","parent_id":28490,"postal_code":null}
+{"id":27449,"code":null,"name":"Agoo","type":"city","parent_id":27448,"postal_code":null}
+{"id":27495,"code":null,"name":"Aringay","type":"city","parent_id":27448,"postal_code":null}
+{"id":27509,"code":null,"name":"Bacnotan","type":"city","parent_id":27448,"postal_code":null}
+{"id":27551,"code":null,"name":"Balaoan","type":"city","parent_id":27448,"postal_code":null}
+{"id":27575,"code":null,"name":"Bangar","type":"city","parent_id":27448,"postal_code":null}
+{"id":27602,"code":null,"name":"Bauang","type":"city","parent_id":27448,"postal_code":null}
+{"id":27635,"code":null,"name":"Caba","type":"city","parent_id":27448,"postal_code":null}
+{"id":27647,"code":null,"name":"Luna","type":"city","parent_id":27448,"postal_code":null}
+{"id":27681,"code":null,"name":"Naguilian","type":"city","parent_id":27448,"postal_code":null}
+{"id":27701,"code":null,"name":"Pugo","type":"city","parent_id":27448,"postal_code":null}
+{"id":27714,"code":null,"name":"Rosario","type":"city","parent_id":27448,"postal_code":null}
+{"id":27739,"code":null,"name":"San Fernando","type":"city","parent_id":27448,"postal_code":null}
+{"id":27781,"code":null,"name":"San Gabriel","type":"city","parent_id":27448,"postal_code":null}
+{"id":27786,"code":null,"name":"San Juan","type":"city","parent_id":27448,"postal_code":null}
+{"id":27815,"code":null,"name":"Santo Tomas","type":"city","parent_id":27448,"postal_code":null}
+{"id":27832,"code":null,"name":"Sudipen","type":"city","parent_id":27448,"postal_code":null}
+{"id":27836,"code":null,"name":"Tubao","type":"city","parent_id":27448,"postal_code":null}
+{"id":28501,"code":null,"name":"Abuyog","type":"city","parent_id":28500,"postal_code":null}
+{"id":28514,"code":null,"name":"Alangalang","type":"city","parent_id":28500,"postal_code":null}
+{"id":28529,"code":null,"name":"Albuera","type":"city","parent_id":28500,"postal_code":null}
+{"id":28542,"code":null,"name":"Babatngon","type":"city","parent_id":28500,"postal_code":null}
+{"id":28557,"code":null,"name":"Barugo","type":"city","parent_id":28500,"postal_code":null}
+{"id":28578,"code":null,"name":"Bato","type":"city","parent_id":28500,"postal_code":null}
+{"id":28587,"code":null,"name":"Baybay","type":"city","parent_id":28500,"postal_code":null}
+{"id":28643,"code":null,"name":"Burauen","type":"city","parent_id":28500,"postal_code":null}
+{"id":28670,"code":null,"name":"Capoocan","type":"city","parent_id":28500,"postal_code":null}
+{"id":28676,"code":null,"name":"Carigara","type":"city","parent_id":28500,"postal_code":null}
+{"id":28697,"code":null,"name":"Dagami","type":"city","parent_id":28500,"postal_code":null}
+{"id":28727,"code":null,"name":"Dulag","type":"city","parent_id":28500,"postal_code":null}
+{"id":28731,"code":null,"name":"Hilongos","type":"city","parent_id":28500,"postal_code":null}
+{"id":28744,"code":null,"name":"Hindang","type":"city","parent_id":28500,"postal_code":null}
+{"id":28754,"code":null,"name":"Inopacan","type":"city","parent_id":28500,"postal_code":null}
+{"id":28762,"code":null,"name":"Isabel","type":"city","parent_id":28500,"postal_code":null}
+{"id":28777,"code":null,"name":"Jaro","type":"city","parent_id":28500,"postal_code":null}
+{"id":28786,"code":null,"name":"Javier","type":"city","parent_id":28500,"postal_code":null}
+{"id":28798,"code":null,"name":"Julita","type":"city","parent_id":28500,"postal_code":null}
+{"id":28804,"code":null,"name":"Kananga","type":"city","parent_id":28500,"postal_code":null}
+{"id":28826,"code":null,"name":"Mahaplag","type":"city","parent_id":28500,"postal_code":null}
+{"id":28838,"code":null,"name":"Matag-ob","type":"city","parent_id":28500,"postal_code":null}
+{"id":28846,"code":null,"name":"Matalom","type":"city","parent_id":28500,"postal_code":null}
+{"id":28859,"code":null,"name":"Mayorga","type":"city","parent_id":28500,"postal_code":null}
+{"id":28816,"code":null,"name":"McArthur","type":"city","parent_id":28500,"postal_code":null}
+{"id":28870,"code":null,"name":"Merida","type":"city","parent_id":28500,"postal_code":null}
+{"id":28882,"code":null,"name":"Ormoc City Proper","type":"city","parent_id":28500,"postal_code":null}
+{"id":28993,"code":null,"name":"Palo","type":"city","parent_id":28500,"postal_code":null}
+{"id":29008,"code":null,"name":"Palompon","type":"city","parent_id":28500,"postal_code":null}
+{"id":29028,"code":null,"name":"Pastrana","type":"city","parent_id":28500,"postal_code":null}
+{"id":29038,"code":null,"name":"San Miguel","type":"city","parent_id":28500,"postal_code":null}
+{"id":29044,"code":null,"name":"Sta Fe","type":"city","parent_id":28500,"postal_code":null}
+{"id":29056,"code":null,"name":"Tabon Tabon","type":"city","parent_id":28500,"postal_code":null}
+{"id":29062,"code":null,"name":"Tacloban","type":"city","parent_id":28500,"postal_code":null}
+{"id":29201,"code":null,"name":"Tanauan","type":"city","parent_id":28500,"postal_code":null}
+{"id":29217,"code":null,"name":"Tolosa","type":"city","parent_id":28500,"postal_code":null}
+{"id":29226,"code":null,"name":"Tunga","type":"city","parent_id":28500,"postal_code":null}
+{"id":29234,"code":null,"name":"Villaba","type":"city","parent_id":28500,"postal_code":null}
+{"id":29247,"code":null,"name":"Cotabato City","type":"city","parent_id":29246,"postal_code":null}
+{"id":29285,"code":null,"name":"Dinaig","type":"city","parent_id":29246,"postal_code":null}
+{"id":29299,"code":null,"name":"North Upi","type":"city","parent_id":29246,"postal_code":null}
+{"id":29288,"code":null,"name":"Parang","type":"city","parent_id":29246,"postal_code":null}
+{"id":29295,"code":null,"name":"Sultan Kudarat","type":"city","parent_id":29246,"postal_code":null}
+{"id":29307,"code":null,"name":"Boac","type":"city","parent_id":29306,"postal_code":null}
+{"id":29344,"code":null,"name":"Buenavista","type":"city","parent_id":29306,"postal_code":null}
+{"id":29352,"code":null,"name":"Gasan","type":"city","parent_id":29306,"postal_code":null}
+{"id":29375,"code":null,"name":"Mogpog","type":"city","parent_id":29306,"postal_code":null}
+{"id":29400,"code":null,"name":"Santa Cruz","type":"city","parent_id":29306,"postal_code":null}
+{"id":29417,"code":null,"name":"Masbate City","type":"city","parent_id":29416,"postal_code":null}
+{"id":29434,"code":null,"name":"Milagros","type":"city","parent_id":29416,"postal_code":null}
+{"id":29441,"code":null,"name":"Mobo","type":"city","parent_id":29416,"postal_code":null}
+{"id":29457,"code":null,"name":"Caloocan City","type":"city","parent_id":29456,"postal_code":null}
+{"id":29479,"code":null,"name":"Las Pinas City","type":"city","parent_id":29456,"postal_code":null}
+{"id":29508,"code":null,"name":"Makati City","type":"city","parent_id":29456,"postal_code":null}
+{"id":29596,"code":null,"name":"Malabon City","type":"city","parent_id":29456,"postal_code":null}
+{"id":29619,"code":null,"name":"Mandaluyong City","type":"city","parent_id":29456,"postal_code":null}
+{"id":29647,"code":null,"name":"Manila City","type":"city","parent_id":29456,"postal_code":null}
+{"id":29670,"code":null,"name":"Marikina City","type":"city","parent_id":29456,"postal_code":null}
+{"id":29687,"code":null,"name":"Muntinlupa City","type":"city","parent_id":29456,"postal_code":null}
+{"id":29702,"code":null,"name":"Navotas City","type":"city","parent_id":29456,"postal_code":null}
+{"id":29720,"code":null,"name":"Paranaque City","type":"city","parent_id":29456,"postal_code":null}
+{"id":29748,"code":null,"name":"Pasay City","type":"city","parent_id":29456,"postal_code":null}
+{"id":29771,"code":null,"name":"Pasig City","type":"city","parent_id":29456,"postal_code":null}
+{"id":29802,"code":null,"name":"Pateros","type":"city","parent_id":29456,"postal_code":null}
+{"id":29813,"code":null,"name":"Quezon City","type":"city","parent_id":29456,"postal_code":null}
+{"id":29961,"code":null,"name":"San Juan City","type":"city","parent_id":29456,"postal_code":null}
+{"id":29983,"code":null,"name":"Taguig City","type":"city","parent_id":29456,"postal_code":null}
+{"id":30012,"code":null,"name":"Valenzuela City","type":"city","parent_id":29456,"postal_code":null}
+{"id":30047,"code":null,"name":"Aloran","type":"city","parent_id":30046,"postal_code":null}
+{"id":30062,"code":null,"name":"Baliangao","type":"city","parent_id":30046,"postal_code":null}
+{"id":30078,"code":null,"name":"Bonifacio","type":"city","parent_id":30046,"postal_code":null}
+{"id":30085,"code":null,"name":"Calamba","type":"city","parent_id":30046,"postal_code":null}
+{"id":30097,"code":null,"name":"Clarin","type":"city","parent_id":30046,"postal_code":null}
+{"id":30109,"code":null,"name":"Jimenez","type":"city","parent_id":30046,"postal_code":null}
+{"id":30121,"code":null,"name":"Lopez Jaena","type":"city","parent_id":30046,"postal_code":null}
+{"id":30132,"code":null,"name":"Oroquieta City","type":"city","parent_id":30046,"postal_code":null}
+{"id":30164,"code":null,"name":"Ozamis City","type":"city","parent_id":30046,"postal_code":null}
+{"id":30216,"code":null,"name":"Panaon","type":"city","parent_id":30046,"postal_code":null}
+{"id":30225,"code":null,"name":"Plaridel","type":"city","parent_id":30046,"postal_code":null}
+{"id":30245,"code":null,"name":"Sapang Dalaga","type":"city","parent_id":30046,"postal_code":null}
+{"id":30251,"code":null,"name":"Sinacaban","type":"city","parent_id":30046,"postal_code":null}
+{"id":30259,"code":null,"name":"Tangub City","type":"city","parent_id":30046,"postal_code":null}
+{"id":30315,"code":null,"name":"Tudela","type":"city","parent_id":30046,"postal_code":null}
+{"id":30329,"code":null,"name":"Alubijid","type":"city","parent_id":30328,"postal_code":null}
+{"id":30337,"code":null,"name":"Balingasag","type":"city","parent_id":30328,"postal_code":null}
+{"id":30353,"code":null,"name":"Balingoan","type":"city","parent_id":30328,"postal_code":null}
+{"id":30357,"code":null,"name":"Binuangan","type":"city","parent_id":30328,"postal_code":null}
+{"id":30361,"code":null,"name":"Cagayan de Oro City","type":"city","parent_id":30328,"postal_code":null}
+{"id":30442,"code":null,"name":"El Salvador","type":"city","parent_id":30328,"postal_code":null}
+{"id":30451,"code":null,"name":"Gingoog City","type":"city","parent_id":30328,"postal_code":null}
+{"id":30492,"code":null,"name":"Gitagum","type":"city","parent_id":30328,"postal_code":null}
+{"id":30500,"code":null,"name":"Initao","type":"city","parent_id":30328,"postal_code":null}
+{"id":30510,"code":null,"name":"Jasaan","type":"city","parent_id":30328,"postal_code":null}
+{"id":30522,"code":null,"name":"Kinoguitan","type":"city","parent_id":30328,"postal_code":null}
+{"id":30529,"code":null,"name":"Lagonglong","type":"city","parent_id":30328,"postal_code":null}
+{"id":30535,"code":null,"name":"Laguindingan","type":"city","parent_id":30328,"postal_code":null}
+{"id":30542,"code":null,"name":"Libertad","type":"city","parent_id":30328,"postal_code":null}
+{"id":30546,"code":null,"name":"Lugait","type":"city","parent_id":30328,"postal_code":null}
+{"id":30549,"code":null,"name":"Magsaysay","type":"city","parent_id":30328,"postal_code":null}
+{"id":30553,"code":null,"name":"Manticao","type":"city","parent_id":30328,"postal_code":null}
+{"id":30560,"code":null,"name":"Medina","type":"city","parent_id":30328,"postal_code":null}
+{"id":30569,"code":null,"name":"Naawan","type":"city","parent_id":30328,"postal_code":null}
+{"id":30575,"code":null,"name":"Opol","type":"city","parent_id":30328,"postal_code":null}
+{"id":30584,"code":null,"name":"Salay","type":"city","parent_id":30328,"postal_code":null}
+{"id":30590,"code":null,"name":"Sugbongcogon","type":"city","parent_id":30328,"postal_code":null}
+{"id":30595,"code":null,"name":"Tagoloan","type":"city","parent_id":30328,"postal_code":null}
+{"id":30603,"code":null,"name":"Talisayan","type":"city","parent_id":30328,"postal_code":null}
+{"id":30614,"code":null,"name":"Villanueva","type":"city","parent_id":30328,"postal_code":null}
+{"id":30624,"code":null,"name":"Bontoc","type":"city","parent_id":30623,"postal_code":null}
+{"id":30632,"code":null,"name":"Bacolod","type":"city","parent_id":30631,"postal_code":null}
+{"id":30690,"code":null,"name":"Bago City","type":"city","parent_id":30631,"postal_code":null}
+{"id":30704,"code":null,"name":"Binalbagan","type":"city","parent_id":30631,"postal_code":null}
+{"id":30719,"code":null,"name":"Cadiz City","type":"city","parent_id":30631,"postal_code":null}
+{"id":30735,"code":null,"name":"Calatrava","type":"city","parent_id":30631,"postal_code":null}
+{"id":30745,"code":null,"name":"Cauayan","type":"city","parent_id":30631,"postal_code":null}
+{"id":30752,"code":null,"name":"EB Magalona (Saravia)","type":"city","parent_id":30631,"postal_code":null}
+{"id":30768,"code":null,"name":"Escalante","type":"city","parent_id":30631,"postal_code":null}
+{"id":30781,"code":null,"name":"Himamaylan","type":"city","parent_id":30631,"postal_code":null}
+{"id":30793,"code":null,"name":"Hinigaran","type":"city","parent_id":30631,"postal_code":null}
+{"id":30809,"code":null,"name":"Hinoba-an","type":"city","parent_id":30631,"postal_code":null}
+{"id":30813,"code":null,"name":"Ilog","type":"city","parent_id":30631,"postal_code":null}
+{"id":30825,"code":null,"name":"Isabela","type":"city","parent_id":30631,"postal_code":null}
+{"id":30836,"code":null,"name":"Kabankalan","type":"city","parent_id":30631,"postal_code":null}
+{"id":30854,"code":null,"name":"La Carlota","type":"city","parent_id":30631,"postal_code":null}
+{"id":30864,"code":null,"name":"Manapla","type":"city","parent_id":30631,"postal_code":null}
+{"id":30875,"code":null,"name":"Murcia","type":"city","parent_id":30631,"postal_code":null}
+{"id":30881,"code":null,"name":"Pontevedra","type":"city","parent_id":30631,"postal_code":null}
+{"id":30889,"code":null,"name":"Pulupandan","type":"city","parent_id":30631,"postal_code":null}
+{"id":30907,"code":null,"name":"Sagay City","type":"city","parent_id":30631,"postal_code":null}
+{"id":30922,"code":null,"name":"San Carlos City","type":"city","parent_id":30631,"postal_code":null}
+{"id":30934,"code":null,"name":"San Enrique","type":"city","parent_id":30631,"postal_code":null}
+{"id":30945,"code":null,"name":"Silay","type":"city","parent_id":30631,"postal_code":null}
+{"id":30958,"code":null,"name":"Sipalay","type":"city","parent_id":30631,"postal_code":null}
+{"id":30972,"code":null,"name":"Talisay","type":"city","parent_id":30631,"postal_code":null}
+{"id":30993,"code":null,"name":"Toboso","type":"city","parent_id":30631,"postal_code":null}
+{"id":30997,"code":null,"name":"Valladolid","type":"city","parent_id":30631,"postal_code":null}
+{"id":31007,"code":null,"name":"Victorias City","type":"city","parent_id":30631,"postal_code":null}
+{"id":31032,"code":null,"name":"Amlan (Ayuquitan)","type":"city","parent_id":31031,"postal_code":null}
+{"id":31038,"code":null,"name":"Ayungon","type":"city","parent_id":31031,"postal_code":null}
+{"id":31046,"code":null,"name":"Bacong","type":"city","parent_id":31031,"postal_code":null}
+{"id":31057,"code":null,"name":"Bais City","type":"city","parent_id":31031,"postal_code":null}
+{"id":31080,"code":null,"name":"Basay","type":"city","parent_id":31031,"postal_code":null}
+{"id":31086,"code":null,"name":"Bayawan (Tulong)","type":"city","parent_id":31031,"postal_code":null}
+{"id":31096,"code":null,"name":"Bindoy (Payabon)","type":"city","parent_id":31031,"postal_code":null}
+{"id":31105,"code":null,"name":"Canlaon City","type":"city","parent_id":31031,"postal_code":null}
+{"id":31108,"code":null,"name":"Dauin","type":"city","parent_id":31031,"postal_code":null}
+{"id":31117,"code":null,"name":"Dumaguete City","type":"city","parent_id":31031,"postal_code":null}
+{"id":31148,"code":null,"name":"Guihulngan","type":"city","parent_id":31031,"postal_code":null}
+{"id":31158,"code":null,"name":"La Libertad","type":"city","parent_id":31031,"postal_code":null}
+{"id":31167,"code":null,"name":"Mabinay","type":"city","parent_id":31031,"postal_code":null}
+{"id":31180,"code":null,"name":"Manjuyod","type":"city","parent_id":31031,"postal_code":null}
+{"id":31193,"code":null,"name":"Pamplona","type":"city","parent_id":31031,"postal_code":null}
+{"id":31196,"code":null,"name":"San Jose","type":"city","parent_id":31031,"postal_code":null}
+{"id":31204,"code":null,"name":"Santa Catalina","type":"city","parent_id":31031,"postal_code":null}
+{"id":31215,"code":null,"name":"Siaton","type":"city","parent_id":31031,"postal_code":null}
+{"id":31233,"code":null,"name":"Sibulan","type":"city","parent_id":31031,"postal_code":null}
+{"id":31244,"code":null,"name":"Tanjay","type":"city","parent_id":31031,"postal_code":null}
+{"id":31264,"code":null,"name":"Tayasan","type":"city","parent_id":31031,"postal_code":null}
+{"id":31272,"code":null,"name":"Valencia (Luzurriaga)","type":"city","parent_id":31031,"postal_code":null}
+{"id":31283,"code":null,"name":"Vallehermoso","type":"city","parent_id":31031,"postal_code":null}
+{"id":31293,"code":null,"name":"Zamboanguita","type":"city","parent_id":31031,"postal_code":null}
+{"id":24679,"code":null,"name":"Aleosan","type":"city","parent_id":24678,"postal_code":null}
+{"id":24684,"code":null,"name":"Antipas","type":"city","parent_id":24678,"postal_code":null}
+{"id":24690,"code":null,"name":"Arakan","type":"city","parent_id":24678,"postal_code":null}
+{"id":24693,"code":null,"name":"Kabacan","type":"city","parent_id":24678,"postal_code":null}
+{"id":24698,"code":null,"name":"Kidapawan","type":"city","parent_id":24678,"postal_code":null}
+{"id":24712,"code":null,"name":"Libungan","type":"city","parent_id":24678,"postal_code":null}
+{"id":24718,"code":null,"name":"Makilala","type":"city","parent_id":24678,"postal_code":null}
+{"id":24734,"code":null,"name":"Matalam","type":"city","parent_id":24678,"postal_code":null}
+{"id":24740,"code":null,"name":"Midsayap","type":"city","parent_id":24678,"postal_code":null}
+{"id":24773,"code":null,"name":"Mlang","type":"city","parent_id":24678,"postal_code":null}
+{"id":24789,"code":null,"name":"Pigcawayan","type":"city","parent_id":24678,"postal_code":null}
+{"id":24799,"code":null,"name":"President Roxas","type":"city","parent_id":24678,"postal_code":null}
+{"id":24806,"code":null,"name":"Tulunan","type":"city","parent_id":24678,"postal_code":null}
+{"id":31299,"code":null,"name":"Allen","type":"city","parent_id":31298,"postal_code":null}
+{"id":31311,"code":null,"name":"Bobon","type":"city","parent_id":31298,"postal_code":null}
+{"id":31320,"code":null,"name":"Catarman","type":"city","parent_id":31298,"postal_code":null}
+{"id":31349,"code":null,"name":"Laoang","type":"city","parent_id":31298,"postal_code":null}
+{"id":31359,"code":null,"name":"Lavezares","type":"city","parent_id":31298,"postal_code":null}
+{"id":31371,"code":null,"name":"Mondragon","type":"city","parent_id":31298,"postal_code":null}
+{"id":31380,"code":null,"name":"Pambujan","type":"city","parent_id":31298,"postal_code":null}
+{"id":31391,"code":null,"name":"Rosario","type":"city","parent_id":31298,"postal_code":null}
+{"id":31396,"code":null,"name":"San Isidro","type":"city","parent_id":31298,"postal_code":null}
+{"id":31405,"code":null,"name":"San Jose","type":"city","parent_id":31298,"postal_code":null}
+{"id":31416,"code":null,"name":"San Roque","type":"city","parent_id":31298,"postal_code":null}
+{"id":31425,"code":null,"name":"Victoria","type":"city","parent_id":31298,"postal_code":null}
+{"id":31434,"code":null,"name":"Aliaga","type":"city","parent_id":31433,"postal_code":null}
+{"id":31448,"code":null,"name":"Bongabon","type":"city","parent_id":31433,"postal_code":null}
+{"id":31465,"code":null,"name":"Cabanatuan City","type":"city","parent_id":31433,"postal_code":null}
+{"id":31553,"code":null,"name":"Cabiao","type":"city","parent_id":31433,"postal_code":null}
+{"id":31575,"code":null,"name":"Carranglan","type":"city","parent_id":31433,"postal_code":null}
+{"id":31582,"code":null,"name":"Cuyapo","type":"city","parent_id":31433,"postal_code":null}
+{"id":31594,"code":null,"name":"Gabaldon","type":"city","parent_id":31433,"postal_code":null}
+{"id":31603,"code":null,"name":"Gapan","type":"city","parent_id":31433,"postal_code":null}
+{"id":31618,"code":null,"name":"General Tinio","type":"city","parent_id":31433,"postal_code":null}
+{"id":31631,"code":null,"name":"Guimba","type":"city","parent_id":31433,"postal_code":null}
+{"id":31649,"code":null,"name":"Jaen","type":"city","parent_id":31433,"postal_code":null}
+{"id":31666,"code":null,"name":"Laur","type":"city","parent_id":31433,"postal_code":null}
+{"id":31675,"code":null,"name":"Licab","type":"city","parent_id":31433,"postal_code":null}
+{"id":31681,"code":null,"name":"Llanera","type":"city","parent_id":31433,"postal_code":null}
+{"id":31702,"code":null,"name":"Lupao","type":"city","parent_id":31433,"postal_code":null}
+{"id":31726,"code":null,"name":"Munoz","type":"city","parent_id":31433,"postal_code":null}
+{"id":31733,"code":null,"name":"Nampicuan","type":"city","parent_id":31433,"postal_code":null}
+{"id":31746,"code":null,"name":"Palayan City","type":"city","parent_id":31433,"postal_code":null}
+{"id":31761,"code":null,"name":"Pantabangan","type":"city","parent_id":31433,"postal_code":null}
+{"id":31768,"code":null,"name":"Penaranda","type":"city","parent_id":31433,"postal_code":null}
+{"id":31777,"code":null,"name":"Quezon","type":"city","parent_id":31433,"postal_code":null}
+{"id":31785,"code":null,"name":"Rizal","type":"city","parent_id":31433,"postal_code":null}
+{"id":31808,"code":null,"name":"San Antonio","type":"city","parent_id":31433,"postal_code":null}
+{"id":31818,"code":null,"name":"San Isidro","type":"city","parent_id":31433,"postal_code":null}
+{"id":31825,"code":null,"name":"San Jose City","type":"city","parent_id":31433,"postal_code":null}
+{"id":31858,"code":null,"name":"San Leonardo","type":"city","parent_id":31433,"postal_code":null}
+{"id":31873,"code":null,"name":"Santa Rosa","type":"city","parent_id":31433,"postal_code":null}
+{"id":31893,"code":null,"name":"Santo Domingo","type":"city","parent_id":31433,"postal_code":null}
+{"id":31907,"code":null,"name":"Talavera","type":"city","parent_id":31433,"postal_code":null}
+{"id":31924,"code":null,"name":"Zaragoza","type":"city","parent_id":31433,"postal_code":null}
+{"id":31937,"code":null,"name":"Aritao","type":"city","parent_id":31936,"postal_code":null}
+{"id":31946,"code":null,"name":"Bagabag","type":"city","parent_id":31936,"postal_code":null}
+{"id":31957,"code":null,"name":"Bambang","type":"city","parent_id":31936,"postal_code":null}
+{"id":31976,"code":null,"name":"Bayombong (Capital)","type":"city","parent_id":31936,"postal_code":null}
+{"id":31998,"code":null,"name":"Dupax del Norte","type":"city","parent_id":31936,"postal_code":null}
+{"id":32003,"code":null,"name":"Dupax del Sur","type":"city","parent_id":31936,"postal_code":null}
+{"id":32011,"code":null,"name":"Solano","type":"city","parent_id":31936,"postal_code":null}
+{"id":32034,"code":null,"name":"Calintaan","type":"city","parent_id":32033,"postal_code":null}
+{"id":32037,"code":null,"name":"Magsaysay","type":"city","parent_id":32033,"postal_code":null}
+{"id":32039,"code":null,"name":"Mamburao","type":"city","parent_id":32033,"postal_code":null}
+{"id":32053,"code":null,"name":"Rizal","type":"city","parent_id":32033,"postal_code":null}
+{"id":32062,"code":null,"name":"San Jose","type":"city","parent_id":32033,"postal_code":null}
+{"id":32086,"code":null,"name":"Baco","type":"city","parent_id":32085,"postal_code":null}
+{"id":32090,"code":null,"name":"Calapan","type":"city","parent_id":32085,"postal_code":null}
+{"id":32136,"code":null,"name":"Gloria","type":"city","parent_id":32085,"postal_code":null}
+{"id":32140,"code":null,"name":"Mansalay","type":"city","parent_id":32085,"postal_code":null}
+{"id":32144,"code":null,"name":"Pinamalayan","type":"city","parent_id":32085,"postal_code":null}
+{"id":32168,"code":null,"name":"Puerto Galera","type":"city","parent_id":32085,"postal_code":null}
+{"id":32180,"code":null,"name":"Roxas","type":"city","parent_id":32085,"postal_code":null}
+{"id":32195,"code":null,"name":"San Teodoro","type":"city","parent_id":32085,"postal_code":null}
+{"id":32201,"code":null,"name":"Socorro","type":"city","parent_id":32085,"postal_code":null}
+{"id":32208,"code":null,"name":"Brookes Point","type":"city","parent_id":32207,"postal_code":null}
+{"id":32219,"code":null,"name":"Coron","type":"city","parent_id":32207,"postal_code":null}
+{"id":32231,"code":null,"name":"El Nido Bacut","type":"city","parent_id":32207,"postal_code":null}
+{"id":32236,"code":null,"name":"Narra","type":"city","parent_id":32207,"postal_code":null}
+{"id":32247,"code":null,"name":"Puerto Princesa","type":"city","parent_id":32207,"postal_code":null}
+{"id":32280,"code":null,"name":"Roxas","type":"city","parent_id":32207,"postal_code":null}
+{"id":32294,"code":null,"name":"Taytay","type":"city","parent_id":32207,"postal_code":null}
+{"id":32297,"code":null,"name":"Angeles City","type":"city","parent_id":32296,"postal_code":null}
+{"id":32331,"code":null,"name":"Apalit","type":"city","parent_id":32296,"postal_code":null}
+{"id":32342,"code":null,"name":"Arayat","type":"city","parent_id":32296,"postal_code":null}
+{"id":32370,"code":null,"name":"Bacolor","type":"city","parent_id":32296,"postal_code":null}
+{"id":32380,"code":null,"name":"Candaba","type":"city","parent_id":32296,"postal_code":null}
+{"id":32390,"code":null,"name":"Floridablanca","type":"city","parent_id":32296,"postal_code":null}
+{"id":32417,"code":null,"name":"Guagua","type":"city","parent_id":32296,"postal_code":null}
+{"id":32449,"code":null,"name":"Lubao","type":"city","parent_id":32296,"postal_code":null}
+{"id":32473,"code":null,"name":"Mabalacat","type":"city","parent_id":32296,"postal_code":null}
+{"id":32498,"code":null,"name":"Macabebe","type":"city","parent_id":32296,"postal_code":null}
+{"id":32517,"code":null,"name":"Magalang","type":"city","parent_id":32296,"postal_code":null}
+{"id":32540,"code":null,"name":"Masantol","type":"city","parent_id":32296,"postal_code":null}
+{"id":32548,"code":null,"name":"Mexico","type":"city","parent_id":32296,"postal_code":null}
+{"id":32581,"code":null,"name":"Minalin","type":"city","parent_id":32296,"postal_code":null}
+{"id":32593,"code":null,"name":"Porac","type":"city","parent_id":32296,"postal_code":null}
+{"id":32615,"code":null,"name":"San Fernando","type":"city","parent_id":32296,"postal_code":null}
+{"id":32650,"code":null,"name":"San Luis","type":"city","parent_id":32296,"postal_code":null}
+{"id":32665,"code":null,"name":"San Simon","type":"city","parent_id":32296,"postal_code":null}
+{"id":32679,"code":null,"name":"Santa Ana","type":"city","parent_id":32296,"postal_code":null}
+{"id":32694,"code":null,"name":"Santa Rita","type":"city","parent_id":32296,"postal_code":null}
+{"id":32704,"code":null,"name":"Santo Tomas","type":"city","parent_id":32296,"postal_code":null}
+{"id":32712,"code":null,"name":"Sasmuan (Sexmoan)","type":"city","parent_id":32296,"postal_code":null}
+{"id":32720,"code":null,"name":"Aguilar","type":"city","parent_id":32719,"postal_code":null}
+{"id":32732,"code":null,"name":"Alaminos","type":"city","parent_id":32719,"postal_code":null}
+{"id":32760,"code":null,"name":"Alcala","type":"city","parent_id":32719,"postal_code":null}
+{"id":32773,"code":null,"name":"Asingan","type":"city","parent_id":32719,"postal_code":null}
+{"id":32794,"code":null,"name":"Balungao","type":"city","parent_id":32719,"postal_code":null}
+{"id":32805,"code":null,"name":"Bani","type":"city","parent_id":32719,"postal_code":null}
+{"id":32813,"code":null,"name":"Basista","type":"city","parent_id":32719,"postal_code":null}
+{"id":32819,"code":null,"name":"Bautista","type":"city","parent_id":32719,"postal_code":null}
+{"id":32829,"code":null,"name":"Bayambang","type":"city","parent_id":32719,"postal_code":null}
+{"id":32845,"code":null,"name":"Binalonan","type":"city","parent_id":32719,"postal_code":null}
+{"id":32868,"code":null,"name":"Binmaley","type":"city","parent_id":32719,"postal_code":null}
+{"id":32898,"code":null,"name":"Bolinao","type":"city","parent_id":32719,"postal_code":null}
+{"id":32905,"code":null,"name":"Bugallon","type":"city","parent_id":32719,"postal_code":null}
+{"id":32927,"code":null,"name":"Burgos","type":"city","parent_id":32719,"postal_code":null}
+{"id":32932,"code":null,"name":"Calasiao","type":"city","parent_id":32719,"postal_code":null}
+{"id":32949,"code":null,"name":"Dagupan City","type":"city","parent_id":32719,"postal_code":null}
+{"id":32975,"code":null,"name":"Dasol","type":"city","parent_id":32719,"postal_code":null}
+{"id":32984,"code":null,"name":"Infanta","type":"city","parent_id":32719,"postal_code":null}
+{"id":32992,"code":null,"name":"Labrador","type":"city","parent_id":32719,"postal_code":null}
+{"id":33003,"code":null,"name":"Laoac","type":"city","parent_id":32719,"postal_code":null}
+{"id":33013,"code":null,"name":"Lingayen (Capital)","type":"city","parent_id":32719,"postal_code":null}
+{"id":33042,"code":null,"name":"Mabini","type":"city","parent_id":32719,"postal_code":null}
+{"id":33048,"code":null,"name":"Malasiqui","type":"city","parent_id":32719,"postal_code":null}
+{"id":33059,"code":null,"name":"Manaoag","type":"city","parent_id":32719,"postal_code":null}
+{"id":33079,"code":null,"name":"Mangaldan","type":"city","parent_id":32719,"postal_code":null}
+{"id":33103,"code":null,"name":"Mangatarem","type":"city","parent_id":32719,"postal_code":null}
+{"id":33154,"code":null,"name":"Mapandan","type":"city","parent_id":32719,"postal_code":null}
+{"id":33167,"code":null,"name":"Natividad","type":"city","parent_id":32719,"postal_code":null}
+{"id":33172,"code":null,"name":"Pozzorubio","type":"city","parent_id":32719,"postal_code":null}
+{"id":33184,"code":null,"name":"Rosales","type":"city","parent_id":32719,"postal_code":null}
+{"id":33204,"code":null,"name":"San Carlos City","type":"city","parent_id":32719,"postal_code":null}
+{"id":33247,"code":null,"name":"San Fabian","type":"city","parent_id":32719,"postal_code":null}
+{"id":33268,"code":null,"name":"San Jacinto","type":"city","parent_id":32719,"postal_code":null}
+{"id":33281,"code":null,"name":"San Manuel","type":"city","parent_id":32719,"postal_code":null}
+{"id":33286,"code":null,"name":"San Nicolas","type":"city","parent_id":32719,"postal_code":null}
+{"id":33291,"code":null,"name":"San Quintin","type":"city","parent_id":32719,"postal_code":null}
+{"id":33303,"code":null,"name":"Santa Barbara","type":"city","parent_id":32719,"postal_code":null}
+{"id":33317,"code":null,"name":"Santa Maria","type":"city","parent_id":32719,"postal_code":null}
+{"id":33326,"code":null,"name":"Santo Tomas","type":"city","parent_id":32719,"postal_code":null}
+{"id":33337,"code":null,"name":"Sison (28)","type":"city","parent_id":32719,"postal_code":null}
+{"id":33347,"code":null,"name":"Sual","type":"city","parent_id":32719,"postal_code":null}
+{"id":33353,"code":null,"name":"Tayug","type":"city","parent_id":32719,"postal_code":null}
+{"id":33367,"code":null,"name":"Umingan","type":"city","parent_id":32719,"postal_code":null}
+{"id":33381,"code":null,"name":"Urbiztondo","type":"city","parent_id":32719,"postal_code":null}
+{"id":33384,"code":null,"name":"Urdaneta","type":"city","parent_id":32719,"postal_code":null}
+{"id":33417,"code":null,"name":"Villasis","type":"city","parent_id":32719,"postal_code":null}
+{"id":33436,"code":null,"name":"Atimonan","type":"city","parent_id":33435,"postal_code":null}
+{"id":33453,"code":null,"name":"Calauag","type":"city","parent_id":33435,"postal_code":null}
+{"id":33472,"code":null,"name":"Candelaria","type":"city","parent_id":33435,"postal_code":null}
+{"id":33488,"code":null,"name":"Dolores","type":"city","parent_id":33435,"postal_code":null}
+{"id":33497,"code":null,"name":"General Luna","type":"city","parent_id":33435,"postal_code":null}
+{"id":33510,"code":null,"name":"General Nakar","type":"city","parent_id":33435,"postal_code":null}
+{"id":33515,"code":null,"name":"Gumaca","type":"city","parent_id":33435,"postal_code":null}
+{"id":33547,"code":null,"name":"Infanta","type":"city","parent_id":33435,"postal_code":null}
+{"id":33572,"code":null,"name":"Lopez","type":"city","parent_id":33435,"postal_code":null}
+{"id":33592,"code":null,"name":"Lucban","type":"city","parent_id":33435,"postal_code":null}
+{"id":33616,"code":null,"name":"Lucena City","type":"city","parent_id":33435,"postal_code":null}
+{"id":33646,"code":null,"name":"Macalelon","type":"city","parent_id":33435,"postal_code":null}
+{"id":33660,"code":null,"name":"Mauban","type":"city","parent_id":33435,"postal_code":null}
+{"id":33674,"code":null,"name":"Pagbilao","type":"city","parent_id":33435,"postal_code":null}
+{"id":33694,"code":null,"name":"Pitogo","type":"city","parent_id":33435,"postal_code":null}
+{"id":33711,"code":null,"name":"Plaridel","type":"city","parent_id":33435,"postal_code":null}
+{"id":33721,"code":null,"name":"Real","type":"city","parent_id":33435,"postal_code":null}
+{"id":33732,"code":null,"name":"Sampaloc","type":"city","parent_id":33435,"postal_code":null}
+{"id":33739,"code":null,"name":"Sariaya","type":"city","parent_id":33435,"postal_code":null}
+{"id":33760,"code":null,"name":"Tayabas","type":"city","parent_id":33435,"postal_code":null}
+{"id":33799,"code":null,"name":"Tiaong","type":"city","parent_id":33435,"postal_code":null}
+{"id":33812,"code":null,"name":"Cabarroguis","type":"city","parent_id":33811,"postal_code":null}
+{"id":33818,"code":null,"name":"Diffun","type":"city","parent_id":33811,"postal_code":null}
+{"id":33825,"code":null,"name":"Saguday","type":"city","parent_id":33811,"postal_code":null}
+{"id":33829,"code":null,"name":"Angono","type":"city","parent_id":33828,"postal_code":null}
+{"id":33840,"code":null,"name":"Antipolo","type":"city","parent_id":33828,"postal_code":null}
+{"id":33855,"code":null,"name":"Baras","type":"city","parent_id":33828,"postal_code":null}
+{"id":33865,"code":null,"name":"Binangonan","type":"city","parent_id":33828,"postal_code":null}
+{"id":33884,"code":null,"name":"Cainta","type":"city","parent_id":33828,"postal_code":null}
+{"id":33892,"code":null,"name":"Cardona","type":"city","parent_id":33828,"postal_code":null}
+{"id":33901,"code":null,"name":"Jala-Jala","type":"city","parent_id":33828,"postal_code":null}
+{"id":33912,"code":null,"name":"Morong","type":"city","parent_id":33828,"postal_code":null}
+{"id":33921,"code":null,"name":"Pililla","type":"city","parent_id":33828,"postal_code":null}
+{"id":33930,"code":null,"name":"Rodriguez (Montalban)","type":"city","parent_id":33828,"postal_code":null}
+{"id":33940,"code":null,"name":"San Mateo","type":"city","parent_id":33828,"postal_code":null}
+{"id":33955,"code":null,"name":"Tanay","type":"city","parent_id":33828,"postal_code":null}
+{"id":33966,"code":null,"name":"Taytay","type":"city","parent_id":33828,"postal_code":null}
+{"id":33972,"code":null,"name":"Teresa","type":"city","parent_id":33828,"postal_code":null}
+{"id":33983,"code":null,"name":"Alcantara","type":"city","parent_id":33982,"postal_code":null}
+{"id":33992,"code":null,"name":"Looc","type":"city","parent_id":33982,"postal_code":null}
+{"id":33998,"code":null,"name":"Odiongan","type":"city","parent_id":33982,"postal_code":null}
+{"id":34017,"code":null,"name":"Romblon","type":"city","parent_id":33982,"postal_code":null}
+{"id":34030,"code":null,"name":"San Andres","type":"city","parent_id":33982,"postal_code":null}
+{"id":34223,"code":null,"name":"Alabel","type":"city","parent_id":34222,"postal_code":null}
+{"id":34226,"code":null,"name":"Glan","type":"city","parent_id":34222,"postal_code":null}
+{"id":34238,"code":null,"name":"Kiamba","type":"city","parent_id":34222,"postal_code":null}
+{"id":34250,"code":null,"name":"Maasim","type":"city","parent_id":34222,"postal_code":null}
+{"id":34261,"code":null,"name":"Maitum","type":"city","parent_id":34222,"postal_code":null}
+{"id":34267,"code":null,"name":"Malapatan","type":"city","parent_id":34222,"postal_code":null}
+{"id":34269,"code":null,"name":"Malungon","type":"city","parent_id":34222,"postal_code":null}
+{"id":36166,"code":null,"name":"Alicia","type":"city","parent_id":36165,"postal_code":null}
+{"id":36173,"code":null,"name":"Buug","type":"city","parent_id":36165,"postal_code":null}
+{"id":36186,"code":null,"name":"Diplahan","type":"city","parent_id":36165,"postal_code":null}
+{"id":36193,"code":null,"name":"Imelda","type":"city","parent_id":36165,"postal_code":null}
+{"id":36203,"code":null,"name":"Ipil","type":"city","parent_id":36165,"postal_code":null}
+{"id":36216,"code":null,"name":"Kabasalan","type":"city","parent_id":36165,"postal_code":null}
+{"id":36229,"code":null,"name":"Malangas","type":"city","parent_id":36165,"postal_code":null}
+{"id":36236,"code":null,"name":"Naga","type":"city","parent_id":36165,"postal_code":null}
+{"id":36243,"code":null,"name":"Roseller Lim","type":"city","parent_id":36165,"postal_code":null}
+{"id":36252,"code":null,"name":"Siay","type":"city","parent_id":36165,"postal_code":null}
+{"id":36262,"code":null,"name":"Titay","type":"city","parent_id":36165,"postal_code":null}
+{"id":36266,"code":null,"name":"Tungawan","type":"city","parent_id":36165,"postal_code":null}
+{"id":34284,"code":null,"name":"Enrique Villanueva","type":"city","parent_id":34283,"postal_code":null}
+{"id":34299,"code":null,"name":"Larena","type":"city","parent_id":34283,"postal_code":null}
+{"id":34323,"code":null,"name":"Lazi","type":"city","parent_id":34283,"postal_code":null}
+{"id":34342,"code":null,"name":"Maria","type":"city","parent_id":34283,"postal_code":null}
+{"id":34365,"code":null,"name":"San Juan","type":"city","parent_id":34283,"postal_code":null}
+{"id":34381,"code":null,"name":"Siquijor","type":"city","parent_id":34283,"postal_code":null}
+{"id":34425,"code":null,"name":"Gubat","type":"city","parent_id":34424,"postal_code":null}
+{"id":34436,"code":null,"name":"Sorsogon","type":"city","parent_id":34424,"postal_code":null}
+{"id":34466,"code":null,"name":"Banga","type":"city","parent_id":34465,"postal_code":null}
+{"id":34473,"code":null,"name":"General Santos City","type":"city","parent_id":34465,"postal_code":null}
+{"id":34494,"code":null,"name":"Koronadal","type":"city","parent_id":34465,"postal_code":null}
+{"id":34518,"code":null,"name":"Norala","type":"city","parent_id":34465,"postal_code":null}
+{"id":34522,"code":null,"name":"Polomolok","type":"city","parent_id":34465,"postal_code":null}
+{"id":34533,"code":null,"name":"Santo Nino","type":"city","parent_id":34465,"postal_code":null}
+{"id":34539,"code":null,"name":"Surallah","type":"city","parent_id":34465,"postal_code":null}
+{"id":34546,"code":null,"name":"Tampakan","type":"city","parent_id":34465,"postal_code":null}
+{"id":34549,"code":null,"name":"Tantangan","type":"city","parent_id":34465,"postal_code":null}
+{"id":34558,"code":null,"name":"Tupi","type":"city","parent_id":34465,"postal_code":null}
+{"id":34566,"code":null,"name":"Anahawan","type":"city","parent_id":34565,"postal_code":null}
+{"id":34575,"code":null,"name":"Bontoc","type":"city","parent_id":34565,"postal_code":null}
+{"id":34583,"code":null,"name":"Hinunangan","type":"city","parent_id":34565,"postal_code":null}
+{"id":34595,"code":null,"name":"Hinundayan","type":"city","parent_id":34565,"postal_code":null}
+{"id":34601,"code":null,"name":"Maasin","type":"city","parent_id":34565,"postal_code":null}
+{"id":34627,"code":null,"name":"Macrohon","type":"city","parent_id":34565,"postal_code":null}
+{"id":34645,"code":null,"name":"Malitbog","type":"city","parent_id":34565,"postal_code":null}
+{"id":34666,"code":null,"name":"Padre Burgos","type":"city","parent_id":34565,"postal_code":null}
+{"id":34676,"code":null,"name":"Saint Bernard","type":"city","parent_id":34565,"postal_code":null}
+{"id":34692,"code":null,"name":"San Juan (Cabalian)","type":"city","parent_id":34565,"postal_code":null}
+{"id":34707,"code":null,"name":"Silago","type":"city","parent_id":34565,"postal_code":null}
+{"id":34714,"code":null,"name":"Sogod","type":"city","parent_id":34565,"postal_code":null}
+{"id":34734,"code":null,"name":"Tomas Oppus","type":"city","parent_id":34565,"postal_code":null}
+{"id":34750,"code":null,"name":"Esperanza","type":"city","parent_id":34749,"postal_code":null}
+{"id":34756,"code":null,"name":"Isulan","type":"city","parent_id":34749,"postal_code":null}
+{"id":34771,"code":null,"name":"Kalamansig","type":"city","parent_id":34749,"postal_code":null}
+{"id":34779,"code":null,"name":"Lambayong (Mariano Marcos)","type":"city","parent_id":34749,"postal_code":null}
+{"id":34783,"code":null,"name":"Lebak","type":"city","parent_id":34749,"postal_code":null}
+{"id":34797,"code":null,"name":"President Quirino","type":"city","parent_id":34749,"postal_code":null}
+{"id":34800,"code":null,"name":"Tacurong","type":"city","parent_id":34749,"postal_code":null}
+{"id":34822,"code":null,"name":"Indanan","type":"city","parent_id":34821,"postal_code":null}
+{"id":34833,"code":null,"name":"Jolo","type":"city","parent_id":34821,"postal_code":null}
+{"id":34842,"code":null,"name":"Patikul","type":"city","parent_id":34821,"postal_code":null}
+{"id":34860,"code":null,"name":"Alegria","type":"city","parent_id":34859,"postal_code":null}
+{"id":34868,"code":null,"name":"Bacauag","type":"city","parent_id":34859,"postal_code":null}
+{"id":34871,"code":null,"name":"Burgos","type":"city","parent_id":34859,"postal_code":null}
+{"id":34874,"code":null,"name":"Claver","type":"city","parent_id":34859,"postal_code":null}
+{"id":34889,"code":null,"name":"Dapa","type":"city","parent_id":34859,"postal_code":null}
+{"id":34909,"code":null,"name":"Del Carmen","type":"city","parent_id":34859,"postal_code":null}
+{"id":34929,"code":null,"name":"General Luna","type":"city","parent_id":34859,"postal_code":null}
+{"id":34949,"code":null,"name":"Gigaquit","type":"city","parent_id":34859,"postal_code":null}
+{"id":34958,"code":null,"name":"Mainit","type":"city","parent_id":34859,"postal_code":null}
+{"id":34974,"code":null,"name":"Malimono","type":"city","parent_id":34859,"postal_code":null}
+{"id":34979,"code":null,"name":"Pilar","type":"city","parent_id":34859,"postal_code":null}
+{"id":34983,"code":null,"name":"Placer","type":"city","parent_id":34859,"postal_code":null}
+{"id":34991,"code":null,"name":"San Benito","type":"city","parent_id":34859,"postal_code":null}
+{"id":34994,"code":null,"name":"San Francisco (Anao-aon)","type":"city","parent_id":34859,"postal_code":null}
+{"id":35003,"code":null,"name":"San Isidro","type":"city","parent_id":34859,"postal_code":null}
+{"id":35009,"code":null,"name":"Santa Monica","type":"city","parent_id":34859,"postal_code":null}
+{"id":35017,"code":null,"name":"Surigao City","type":"city","parent_id":34859,"postal_code":null}
+{"id":35032,"code":null,"name":"Tubod","type":"city","parent_id":34859,"postal_code":null}
+{"id":35042,"code":null,"name":"Barobo","type":"city","parent_id":35041,"postal_code":null}
+{"id":35050,"code":null,"name":"Bayabas","type":"city","parent_id":35041,"postal_code":null}
+{"id":35054,"code":null,"name":"Bislig","type":"city","parent_id":35041,"postal_code":null}
+{"id":35068,"code":null,"name":"Cagwait","type":"city","parent_id":35041,"postal_code":null}
+{"id":35073,"code":null,"name":"Cantilan","type":"city","parent_id":35041,"postal_code":null}
+{"id":35085,"code":null,"name":"Carmen","type":"city","parent_id":35041,"postal_code":null}
+{"id":35093,"code":null,"name":"Carrascal","type":"city","parent_id":35041,"postal_code":null}
+{"id":35099,"code":null,"name":"Cortes","type":"city","parent_id":35041,"postal_code":null}
+{"id":35106,"code":null,"name":"Hinatuan","type":"city","parent_id":35041,"postal_code":null}
+{"id":35113,"code":null,"name":"Lanuza","type":"city","parent_id":35041,"postal_code":null}
+{"id":35125,"code":null,"name":"Lianga","type":"city","parent_id":35041,"postal_code":null}
+{"id":35136,"code":null,"name":"Lingig","type":"city","parent_id":35041,"postal_code":null}
+{"id":35142,"code":null,"name":"Madrid","type":"city","parent_id":35041,"postal_code":null}
+{"id":35150,"code":null,"name":"Marihatag","type":"city","parent_id":35041,"postal_code":null}
+{"id":35156,"code":null,"name":"San Agustin","type":"city","parent_id":35041,"postal_code":null}
+{"id":35158,"code":null,"name":"Tagbina","type":"city","parent_id":35041,"postal_code":null}
+{"id":35165,"code":null,"name":"Tago","type":"city","parent_id":35041,"postal_code":null}
+{"id":35167,"code":null,"name":"Tandag","type":"city","parent_id":35041,"postal_code":null}
+{"id":35183,"code":null,"name":"Anao","type":"city","parent_id":35182,"postal_code":null}
+{"id":35197,"code":null,"name":"Bamban","type":"city","parent_id":35182,"postal_code":null}
+{"id":35204,"code":null,"name":"Camiling","type":"city","parent_id":35182,"postal_code":null}
+{"id":35235,"code":null,"name":"Capas","type":"city","parent_id":35182,"postal_code":null}
+{"id":35250,"code":null,"name":"Concepcion","type":"city","parent_id":35182,"postal_code":null}
+{"id":35267,"code":null,"name":"Gerona","type":"city","parent_id":35182,"postal_code":null}
+{"id":35293,"code":null,"name":"La Paz","type":"city","parent_id":35182,"postal_code":null}
+{"id":35304,"code":null,"name":"Mayantoc","type":"city","parent_id":35182,"postal_code":null}
+{"id":35307,"code":null,"name":"Moncada","type":"city","parent_id":35182,"postal_code":null}
+{"id":35332,"code":null,"name":"Paniqui","type":"city","parent_id":35182,"postal_code":null}
+{"id":35358,"code":null,"name":"Pura","type":"city","parent_id":35182,"postal_code":null}
+{"id":35370,"code":null,"name":"Ramos","type":"city","parent_id":35182,"postal_code":null}
+{"id":35379,"code":null,"name":"San Clemente","type":"city","parent_id":35182,"postal_code":null}
+{"id":35384,"code":null,"name":"San Manuel","type":"city","parent_id":35182,"postal_code":null}
+{"id":35398,"code":null,"name":"Santa Ignacia","type":"city","parent_id":35182,"postal_code":null}
+{"id":35410,"code":null,"name":"Tarlac City","type":"city","parent_id":35182,"postal_code":null}
+{"id":35461,"code":null,"name":"Victoria","type":"city","parent_id":35182,"postal_code":null}
+{"id":35473,"code":null,"name":"Bongao","type":"city","parent_id":35472,"postal_code":null}
+{"id":34039,"code":null,"name":"Basey","type":"city","parent_id":34038,"postal_code":null}
+{"id":34044,"code":null,"name":"Calbayog","type":"city","parent_id":34038,"postal_code":null}
+{"id":34099,"code":null,"name":"Calbiga","type":"city","parent_id":34038,"postal_code":null}
+{"id":34112,"code":null,"name":"Catbalogan City Proper","type":"city","parent_id":34038,"postal_code":null}
+{"id":34142,"code":null,"name":"Gandara","type":"city","parent_id":34038,"postal_code":null}
+{"id":34149,"code":null,"name":"Hinabangan","type":"city","parent_id":34038,"postal_code":null}
+{"id":34154,"code":null,"name":"Jiabong","type":"city","parent_id":34038,"postal_code":null}
+{"id":34165,"code":null,"name":"Motiong","type":"city","parent_id":34038,"postal_code":null}
+{"id":34170,"code":null,"name":"Paranas Wright","type":"city","parent_id":34038,"postal_code":null}
+{"id":34181,"code":null,"name":"Pinabacdao","type":"city","parent_id":34038,"postal_code":null}
+{"id":34192,"code":null,"name":"San Jorge","type":"city","parent_id":34038,"postal_code":null}
+{"id":34201,"code":null,"name":"San Sebastian","type":"city","parent_id":34038,"postal_code":null}
+{"id":34206,"code":null,"name":"Santa Margarita","type":"city","parent_id":34038,"postal_code":null}
+{"id":34219,"code":null,"name":"Tarangnan","type":"city","parent_id":34038,"postal_code":null}
+{"id":35486,"code":null,"name":"Botolan","type":"city","parent_id":35485,"postal_code":null}
+{"id":35506,"code":null,"name":"Cabangan","type":"city","parent_id":35485,"postal_code":null}
+{"id":35524,"code":null,"name":"Candelaria","type":"city","parent_id":35485,"postal_code":null}
+{"id":35538,"code":null,"name":"Castillejos","type":"city","parent_id":35485,"postal_code":null}
+{"id":35548,"code":null,"name":"Iba","type":"city","parent_id":35485,"postal_code":null}
+{"id":35563,"code":null,"name":"Masinloc","type":"city","parent_id":35485,"postal_code":null}
+{"id":35576,"code":null,"name":"Olongapo City","type":"city","parent_id":35485,"postal_code":null}
+{"id":35594,"code":null,"name":"Palauig","type":"city","parent_id":35485,"postal_code":null}
+{"id":35612,"code":null,"name":"San Antonio","type":"city","parent_id":35485,"postal_code":null}
+{"id":35624,"code":null,"name":"San Felipe","type":"city","parent_id":35485,"postal_code":null}
+{"id":35635,"code":null,"name":"San Marcelino","type":"city","parent_id":35485,"postal_code":null}
+{"id":35649,"code":null,"name":"San Narciso","type":"city","parent_id":35485,"postal_code":null}
+{"id":35663,"code":null,"name":"Santa Cruz","type":"city","parent_id":35485,"postal_code":null}
+{"id":35677,"code":null,"name":"Subic","type":"city","parent_id":35485,"postal_code":null}
+{"id":35693,"code":null,"name":"Bacungan (Leon T. Postigo)","type":"city","parent_id":35692,"postal_code":null}
+{"id":35699,"code":null,"name":"Dapitan","type":"city","parent_id":35692,"postal_code":null}
+{"id":35728,"code":null,"name":"Dipolog","type":"city","parent_id":35692,"postal_code":null}
+{"id":35746,"code":null,"name":"Kalawit","type":"city","parent_id":35692,"postal_code":null}
+{"id":35748,"code":null,"name":"Katipunan","type":"city","parent_id":35692,"postal_code":null}
+{"id":35758,"code":null,"name":"Labason","type":"city","parent_id":35692,"postal_code":null}
+{"id":35766,"code":null,"name":"Liloy","type":"city","parent_id":35692,"postal_code":null}
+{"id":35779,"code":null,"name":"Manukan","type":"city","parent_id":35692,"postal_code":null}
+{"id":35789,"code":null,"name":"Pinan","type":"city","parent_id":35692,"postal_code":null}
+{"id":35794,"code":null,"name":"Polanco","type":"city","parent_id":35692,"postal_code":null}
+{"id":35800,"code":null,"name":"Pres. Manuel A. Roxas","type":"city","parent_id":35692,"postal_code":null}
+{"id":35806,"code":null,"name":"Rizal","type":"city","parent_id":35692,"postal_code":null}
+{"id":35813,"code":null,"name":"Salug","type":"city","parent_id":35692,"postal_code":null}
+{"id":35823,"code":null,"name":"Sindangan","type":"city","parent_id":35692,"postal_code":null}
+{"id":35855,"code":null,"name":"Tampilisan","type":"city","parent_id":35692,"postal_code":null}
+{"id":35863,"code":null,"name":"Aurora","type":"city","parent_id":35862,"postal_code":null}
+{"id":35890,"code":null,"name":"Dimataling","type":"city","parent_id":35862,"postal_code":null}
+{"id":35895,"code":null,"name":"Dinas","type":"city","parent_id":35862,"postal_code":null}
+{"id":35900,"code":null,"name":"Dumalinao","type":"city","parent_id":35862,"postal_code":null}
+{"id":35907,"code":null,"name":"Dumingag","type":"city","parent_id":35862,"postal_code":null}
+{"id":35918,"code":null,"name":"Guipos","type":"city","parent_id":35862,"postal_code":null}
+{"id":35924,"code":null,"name":"Josefina","type":"city","parent_id":35862,"postal_code":null}
+{"id":35931,"code":null,"name":"Kumalarang","type":"city","parent_id":35862,"postal_code":null}
+{"id":35933,"code":null,"name":"Labangan","type":"city","parent_id":35862,"postal_code":null}
+{"id":35941,"code":null,"name":"Lakewood","type":"city","parent_id":35862,"postal_code":null}
+{"id":35943,"code":null,"name":"Lapuyan","type":"city","parent_id":35862,"postal_code":null}
+{"id":35948,"code":null,"name":"Mahayag","type":"city","parent_id":35862,"postal_code":null}
+{"id":35962,"code":null,"name":"Margosatubig","type":"city","parent_id":35862,"postal_code":null}
+{"id":35968,"code":null,"name":"Midsalip","type":"city","parent_id":35862,"postal_code":null}
+{"id":35975,"code":null,"name":"Molave","type":"city","parent_id":35862,"postal_code":null}
+{"id":35984,"code":null,"name":"Pagadian City","type":"city","parent_id":35862,"postal_code":null}
+{"id":36039,"code":null,"name":"Pitogo","type":"city","parent_id":35862,"postal_code":null}
+{"id":36042,"code":null,"name":"Ramon Magsaysay","type":"city","parent_id":35862,"postal_code":null}
+{"id":36054,"code":null,"name":"San Miguel","type":"city","parent_id":35862,"postal_code":null}
+{"id":36059,"code":null,"name":"Sominot (Don Mariano Marcos)","type":"city","parent_id":35862,"postal_code":null}
+{"id":36068,"code":null,"name":"Tabina","type":"city","parent_id":35862,"postal_code":null}
+{"id":36072,"code":null,"name":"Tambulig","type":"city","parent_id":35862,"postal_code":null}
+{"id":36082,"code":null,"name":"Tigbao","type":"city","parent_id":35862,"postal_code":null}
+{"id":36088,"code":null,"name":"Tukuran","type":"city","parent_id":35862,"postal_code":null}
+{"id":36098,"code":null,"name":"Vincenzo Sagun","type":"city","parent_id":35862,"postal_code":null}
+{"id":36102,"code":null,"name":"Zamboanga City","type":"city","parent_id":35862,"postal_code":null}
